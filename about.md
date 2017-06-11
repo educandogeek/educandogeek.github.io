@@ -12,8 +12,13 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
 
-·Subscríbete al blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
+Ya sabéis que podéis encontrarme en:
 
-·Suscríbete al podcast: [Feed](http://feeds.feedburner.com/educandogeek)
+· Correo electrónico: [educandogeek@gmail.com](mailto:educandogeek@gmail.com)
+
+· Twitter: [@jgurillo](https://twitter.com/jgurillo)
+
+· Suscríbete al Blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
+
+· Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
