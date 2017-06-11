@@ -3,13 +3,13 @@
 #
 
 # Name of your site (displayed in the header)
-name: Your Name
+name: eDucando Geek
 
 # Short bio or description (displayed in the header)
-description: Web Developer from Somewhere
+description: Blog del Podcast - eDucando Geek
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+avatar: https://avatars1.githubusercontent.com/u/29287903?v=3&s=460
 
 #
 # Flags below are optional
@@ -18,15 +18,15 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email:
+  email: educandogeek@gmail.com
   facebook:
   flickr:
   github: barryclark/jekyll-now
   instagram:
   linkedin:
   pinterest:
-  rss: # just type anything here for a working RSS icon
-  twitter: jekyllrb
+  rss: just type anything here for a working RSS icon
+  twitter: jgurillo
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
   youtube: # channel/<your_long_string> or user/<user-name>
   googleplus: # anything in your profile username that comes after plus.google.com/
@@ -84,3 +84,18 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
+
+# Podcast Feed Settings
+podcast_url: https://educandogeek.github.io
+podcast_album_art: https://educandogeek.github.io/img/caratula.jpg
+podcast_title: eDucando Geek
+podcast_owner: Juanjo
+podcast_email: educandogeek@gmail.com
+podcast_category: Technology
+podcast_subcategory_one: Linux
+podcast_subcategory_two: Gadgets
+podcast_explicit: "no"
+podcast_author: Juanjo
+podcast_description: Podcast dedicado a la tecnología, cacharreo, gadgets, sistemas operativos, y también a la aplicación de la tecnología en el ámbito docente. Presentado por Juanjo Gurillo.
+podcast_summary: Podcast dedicado a la tecnología, cacharreo, gadgets, sistemas operativos, y también a la aplicación de la tecnología en el ámbito docente. Presentado por Juanjo Gurillo.
+podcast_subtitle: Podcast dedicado a la tecnología, cacharreo, gadgets, sistemas operativos, y también a la aplicación de la tecnología en el ámbito docente. Presentado por Juanjo Gurillo.
