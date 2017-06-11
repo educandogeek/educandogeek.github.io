@@ -13,3 +13,7 @@ A place to include any other types of information that you'd like to include abo
 ### Contact me
 
 [email@domain.com](mailto:email@domain.com)
+
+·Subscríbete al blog: [RSS](https://educandogeek.github.io/atom.xml)
+
+·Suscríbete al podcast: [Feed](http://feeds.feedburner.com/educandogeek)

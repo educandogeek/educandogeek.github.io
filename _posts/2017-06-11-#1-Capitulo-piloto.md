@@ -20,4 +20,14 @@ Escucha el capítulo:
   <source src="{{ page.podcast_link }}" type="audio/mp3">
 </audio>
 
+Ya sabéis que podéis encontrarme en:
+
+· Correo electrónico: [educandogeek@gmail.com](mailto:educandogeek@gmail.com)
+
+· Twitter: [@jgurillo](https://twitter.com/jgurillo)
+
+·Subscríbete al blog: [RSS](https://educandogeek.github.io/atom.xml)
+
+·Suscríbete al podcast: [Feed](http://feeds.feedburner.com/educandogeek)
+
 
