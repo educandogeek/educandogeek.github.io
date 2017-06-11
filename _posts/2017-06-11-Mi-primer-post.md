@@ -1,5 +1,6 @@
 ﻿---
 layout: post
+
 title: "Mi primer post con Jekyll!"
 ---
 
@@ -16,4 +17,5 @@ Un saludo muy grande.
 Ya sabéis que podéis encontrarme en:
 
 · Correo electrónico: [educandogeek@gmail.com](mailto:educandogeek@gmail.com)
+
 · Twitter: [@jgurillo](https://twitter.com/jgurillo) 
