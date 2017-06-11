@@ -17,6 +17,6 @@ Ya sabéis que podéis encontrarme en:
 
 · Twitter: [@jgurillo](https://twitter.com/jgurillo)
 
-·Subscríbete al blog: [RSS](https://educandogeek.github.io/atom.xml)
+·Subscríbete al blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
 
 ·Suscríbete al podcast: [Feed](http://feeds.feedburner.com/educandogeek)

@@ -14,6 +14,6 @@ A place to include any other types of information that you'd like to include abo
 
 [email@domain.com](mailto:email@domain.com)
 
-·Subscríbete al blog: [RSS](https://educandogeek.github.io/atom.xml)
+·Subscríbete al blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
 
 ·Suscríbete al podcast: [Feed](http://feeds.feedburner.com/educandogeek)
