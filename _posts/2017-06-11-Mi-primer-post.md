@@ -16,5 +16,3 @@ Ya sabéis que podéis encontrarme en:
 · Correo electrónico: [educandogeek@gmail.com](mailto:educandogeek@gmail.com)
 
 · Twitter: [@jgurillo](https://twitter.com/jgurillo)
-
-quitar despues
