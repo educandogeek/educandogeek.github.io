@@ -59,7 +59,6 @@ En Arch y derivados:
 ```
 sudo pacman -S git ruby
 yaourt -S ruby-jekyll --noconfirm
-
 ```
 
 
@@ -87,8 +86,8 @@ Guarda y reinicia la terminal.
 Configuramos git con nuestros datos de GitHub
 
 ```
-git config --global user.name "nombre_usuario"
 git config --global user.email "email_id"
+git config --global user.name "nombre_usuario"
 ```
 
 ### Paso 4. Clonar nuestro repositorio para trabajar en local
