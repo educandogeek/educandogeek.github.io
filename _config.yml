@@ -87,7 +87,7 @@ exclude:
 
 # Podcast Feed Settings
 podcast_url: https://educandogeek.github.io
-podcast_album_art: https://archive.org/download/educandogeekcaratulaitunes/educandogeekcaratulaitunes.jpg
+podcast_album_art: images/caratulaitunes.jpg
 podcast_title: eDucando Geek
 podcast_owner: Juanjo
 podcast_email: educandogeek@gmail.com
