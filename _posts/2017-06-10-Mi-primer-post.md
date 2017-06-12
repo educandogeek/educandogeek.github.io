@@ -1,9 +1,12 @@
 ---
 layout: post
 title: "Mi primer post con Jekyll"
+date: 2017-06-10
+tags: [Blog]
+author: Juanjo
 ---
 
-*Publicado por Juanjo*
+#### Publicado por Juanjo
 
 ### ¡Bienvenidos al nuevo blog de eDucando Geek!
 

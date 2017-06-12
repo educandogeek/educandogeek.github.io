@@ -10,7 +10,7 @@ podcast_link: https://archive.org/download/01EpisodioPiloto_201706/01%20Episodio
 comment: true
 ---
 
-*Publicado por Juanjo*
+#### Publicado por Juanjo
 
 Con este episodio piloto doy inicio, con gran ilusión a este proyecto y podcast que he titulado eDucando Geek.
 Voy a hablar principalmete de tecnología y también de mis experiencias aplicando la tecnología en el ámbito de la docencia.
