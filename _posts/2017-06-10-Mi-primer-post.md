@@ -3,6 +3,8 @@ layout: post
 title: "Mi primer post con Jekyll"
 ---
 
+*Publicado por Juanjo*
+
 ### ¡Bienvenidos al nuevo blog de eDucando Geek!
 
 No ha sido un camino fácil, pero mi empecinamiento por poner en marcha este proyecto que pretende aunar blog i podcast en un mismo sitio ya está en marcha.
