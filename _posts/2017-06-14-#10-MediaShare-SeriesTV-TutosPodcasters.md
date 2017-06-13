@@ -41,7 +41,7 @@ Recomendación de dos aplicaciones:
 
   3. [Cómo grabar con Spreaker Studio para subirlo a iVoox](https://drive.google.com/open?id=16RWszSR_9h77lTe-ap9Hjgkmh8ctiyBhurmcZmtiF7E)
 
-Agradecimientos al podcast de `"Supongo que geek"`
+Agradecimientos al podcast de [`"Supongo que geek"`](https://www.ivoox.com/podcast-supongo-geek_sq_f1277955_1.html)
 
 *Ruego disculpéis los fallos y saltos que hay en la música al principio y final.*
 

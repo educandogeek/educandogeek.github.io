@@ -28,7 +28,7 @@ comment: true
 
 
 Análisis de estos primeros 15 días con el Xiaomi Redmi Note 3 Pro. Desbloqueo de bootloader, instalación de recovery TWRP de instalación de la rom Global Estable de Xiaomi.eu.
-Proceso bien detallado en el siguiente [tutorial](https://drive.google.com/open?id=0B9ePZK7y3oTeN0NnQ2FCZmJwX3c)
+Proceso bien detallado en el siguiente [tutorial](https://drive.google.com/open?id=0B9ePZK7y3oTeN0NnQ2FCZmJwX3c).
 
 
 

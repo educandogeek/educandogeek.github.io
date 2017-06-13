@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#03 Yoigo capa las descargas por Torret - Vacunación"
+title: "#03 Yoigo capa las descargas por Torrent - Vacunación"
 date: 2017-06-13
 categories: podcast
 tags: [Yoigo, Descargar, Torrent, Vacunacion]
