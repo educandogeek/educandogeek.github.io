@@ -2,7 +2,7 @@
 layout: post
 title: "Mi primer post con Jekyll"
 date: 2017-06-10
-tags: [Blog]
+tags: [Presentacion]
 author: Juanjo
 comment: true
 ---

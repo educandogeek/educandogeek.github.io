@@ -3,7 +3,7 @@ layout: post
 title: "#02 Esperando el Xiaomi Redmi Note 3 Pro"
 date: 2017-06-13
 categories: podcast
-tags: [Android, Xiaomi, RN3p, Redmi, Note, 3]
+tags: [Android, Xiaomi, Redmi, RNP3]
 permalink: /2/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/02EsperandoElXiaomiRedmiNote3Pro/02%20Esperando%20el%20Xiaomi%20Redmi%20Note%203%20Pro.mp3 

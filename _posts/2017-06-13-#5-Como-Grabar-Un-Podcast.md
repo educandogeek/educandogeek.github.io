@@ -3,7 +3,7 @@ layout: post
 title: "#05 Cómo grabar un podcast y por qué he decidido hacer el mío"
 date: 2017-06-13
 categories: podcast
-tags: [Grabar, Podcast]
+tags: [Grabar, Podcast, Tutorial]
 permalink: /5/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/05CmoHacerUnPodcastPorQuuGrabarUnPodcast/05%20C%C3%B3mo%20hacer%20un%20Podcast%20-%20Por%20qu%C3%A9%20grabar%20un%20Podcast.mp3

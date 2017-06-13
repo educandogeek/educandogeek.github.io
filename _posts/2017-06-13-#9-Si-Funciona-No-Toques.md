@@ -3,7 +3,7 @@ layout: post
 title: "#09 Si algo funciona... ¡no lo toques!."
 date: 2017-06-13
 categories: podcast
-tags: [Podcast]
+tags: [Podcast, Tutorial]
 permalink: /9/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/09SiAlgoFuncionaNoLoToques/09%20Si%20algo%20funciona%20no%20lo%20toques.mp3

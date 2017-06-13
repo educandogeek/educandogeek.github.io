@@ -3,7 +3,7 @@ layout: post
 title: "#01 Capítulo piloto"
 date: 2017-06-11
 categories: podcast
-tags: [Educando_geek]
+tags: [Presentacion]
 permalink: /1/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/01EpisodioPiloto_201706/01%20Episodio%20Piloto.mp3 
