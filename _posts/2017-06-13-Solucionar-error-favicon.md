@@ -22,13 +22,16 @@ Guardamos el archivo `favicon.jpg` en la carpeta /images.
 
 Ahora vamos a editar el archivo `/_layouts/default.html` y añadiremos estas dos líneas:
 
+
 ```
-<link rel="icon" type="image/x-icon" href="http://jekyllrb.com/favicon.ico">
+<link rel="icon" type="image/x-icon" href="https://educandogeek.github.io/images/favicon.jpg">
 <link rel="shortcut icon" href="images/favicon.jpg">
 ```
+Asegúrate de poner bien en la primera linea la ruta de la imagen para enlazar a la ubicación web de tu `favicon.jpg`alojado en la carpera `images` de tu repositorio en GitHub.
+
 Ha de quedar como muestra la siguiente imagen (he marcado de azul dónde se tienen que copiar las dos líneas):
 
-![alt text](https://archive.org/download/SolucionFavicon/solucion%20favicon.png)
+![alt text](https://archive.org/download/FaviconSolucionadoCorrecto/favicon%20solucionado%20correcto.png)
 
 Guardamos, recargamos y ya esta solucionado!
 
