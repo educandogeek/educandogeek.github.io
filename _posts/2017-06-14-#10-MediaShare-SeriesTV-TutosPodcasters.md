@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#10 Apps iMediaShare & Series TV - Tutoriales Podcast - Agradecimientos."
+title: "#10 Apps iMediaShare & Series TV - Tutoriales Podcast"
 date: 2017-06-13
 categories: podcast
 tags: [Imediashare, Seriestv, Tutorial, Podcast]
