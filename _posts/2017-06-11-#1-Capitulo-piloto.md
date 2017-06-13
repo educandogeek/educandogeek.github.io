@@ -12,22 +12,15 @@ comment: true
 
 #### Publicado por Juanjo
 
-Con este episodio piloto doy inicio, con gran ilusión a este proyecto y podcast que he titulado eDucando Geek.
-Voy a hablar principalmete de tecnología y también de mis experiencias aplicando la tecnología en el ámbito de la docencia.
-
-Escucha el capítulo:
-
-<audio controls>
-  <source src="{{ page.podcast_link }}" type="audio/mp3">
-</audio>
-
-Ya sabéis que podéis encontrarme en:
-
-· Correo electrónico: [educandogeek@gmail.com](mailto:educandogeek@gmail.com)
-
-· Twitter: [@jgurillo](https://twitter.com/jgurillo)
+[https://educandogeek.github.io](https://educandogeek.github.io)
 
 · Suscríbete al Blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
+<audio controls>
+  <source src="{{ page.podcast_link }}" type="audio/mp3">
+</audio>
+
+Con este episodio piloto doy inicio, con gran ilusión a este proyecto y podcast que he titulado eDucando Geek.
+Voy a hablar principalmete de tecnología y también de mis experiencias aplicando la tecnología en el ámbito de la docencia.
