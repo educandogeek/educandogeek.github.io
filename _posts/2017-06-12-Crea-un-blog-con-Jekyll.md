@@ -184,11 +184,11 @@ git commit -m "comentario que constará"
 git push origin master
 ```
 
-**_Si tenemos instalado GitHub en dos dispositivos, antes de editar, deberiamos verificar o descargar el contenido remoto de GitHub a local. 
+**_Si tenemos instalado GitHub en dos dispositivos, antes de editar, deberiamos verificar o descargar el contenido remoto de GitHub a local._**
 
-También deberíamos verificar o descargar el contenido remoto de GitHub a local si hacemos alguna modificación desde el navegador en nuestro repositorio.
+**_También deberíamos verificar o descargar el contenido remoto de GitHub a local si hacemos alguna modificación desde el navegador en nuestro repositorio._**
 
-Para ello escribiremos en la terminal:_**
+· Para ello escribiremos en la terminal:
 
 ```
 git pull origin master
