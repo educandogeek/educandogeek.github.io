@@ -25,13 +25,13 @@ Ahora vamos a editar el archivo `/_layouts/default.html` y añadiremos estas dos
 
 ```
 <link rel="icon" type="image/x-icon" href="https://educandogeek.github.io/images/favicon.jpg">
-<link rel="shortcut icon" href="images/favicon.jpg">
+<link rel="shortcut icon" href="/images/favicon.jpg">
 ```
-Asegúrate de poner bien en la primera linea la ruta de la imagen para enlazar a la ubicación web de tu `favicon.jpg`alojado en la carpera `images` de tu repositorio en GitHub.
+Asegúrate de poner bien en la primera linea la ruta de la imagen para enlazar a la ubicación web de tu `favicon.jpg`alojado en la carpera `/images` de tu repositorio en GitHub.
 
 Ha de quedar como muestra la siguiente imagen (he marcado de azul dónde se tienen que copiar las dos líneas):
 
-![alt text](https://archive.org/download/FaviconSolucionadoCorrecto/favicon%20solucionado%20correcto.png)
+![alt text](https://archive.org/download/FaviconSolucionDefinitiva/favicon%20solucion%20definitiva.png)
 
 Guardamos, recargamos y ya esta solucionado!
 
