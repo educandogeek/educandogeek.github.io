@@ -27,7 +27,7 @@ comment: true
 [Descarga][Mp3]
 
 
-En este breve episodio os relato porqué ha desparecido el feed de eDucando Geek de Ivoox y he tenido que volver a empezar desde cero con el Podcast. No tiene nada que ver con el método que os describo en anteriores capítulos. Ha sido solo por lo que me gusta toquetear.
+En este breve episodio os relato porqué ha desparecido el feed de eDucando Geek de Ivoox y he tenido que volver a empezar desde cero con el Podcast. No tiene nada que ver con el método que os describo en anteriores capítulos. Ha sido sólo por gustarme demasiado toquetear.
 
 
 [Mp3]: https://archive.org/download/09SiAlgoFuncionaNoLoToques/09%20Si%20algo%20funciona%20no%20lo%20toques.mp3
