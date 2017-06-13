@@ -35,11 +35,11 @@ Recomendación de dos aplicaciones:
 
 · **Tutoriales para Podcasters:**
 
-  1. [Cómo crear un podcast desde cero:](https://drive.google.com/open?id=190YcUV4Dy5VgtAQyXQsZSHlE97aTh-sQZSJiXCwbjvU)
+  1. [Cómo crear un podcast desde cero](https://drive.google.com/open?id=190YcUV4Dy5VgtAQyXQsZSHlE97aTh-sQZSJiXCwbjvU)
 
-  2. [Cómo migrar un podcast de Spreaker a iVoox:](https://drive.google.com/open?id=18wBqAKBXWQXL0LAZmeHbzjBlLH6As5C4teHRh5112cE)
+  2. [Cómo migrar un podcast de Spreaker a iVoox](https://drive.google.com/open?id=18wBqAKBXWQXL0LAZmeHbzjBlLH6As5C4teHRh5112cE)
 
-  3. [Cómo grabar con Spreaker Studio para subirlo a iVoox:](https://drive.google.com/open?id=16RWszSR_9h77lTe-ap9Hjgkmh8ctiyBhurmcZmtiF7E)
+  3. [Cómo grabar con Spreaker Studio para subirlo a iVoox](https://drive.google.com/open?id=16RWszSR_9h77lTe-ap9Hjgkmh8ctiyBhurmcZmtiF7E)
 
 Agradecimientos al podcast de `"Supongo que geek"`
 
