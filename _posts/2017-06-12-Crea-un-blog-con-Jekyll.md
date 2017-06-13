@@ -4,6 +4,7 @@ title: "Creación de un blog / podcast con Jekyll"
 date: 2017-06-12
 tags: [Blog, Jekyll, Git, Ruby]
 author: Juanjo
+comment: true
 ---
 
 #### Publicado por Juanjo

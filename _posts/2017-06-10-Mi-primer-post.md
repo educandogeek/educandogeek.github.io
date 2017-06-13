@@ -4,6 +4,7 @@ title: "Mi primer post con Jekyll"
 date: 2017-06-10
 tags: [Blog]
 author: Juanjo
+comment: true
 ---
 
 #### Publicado por Juanjo

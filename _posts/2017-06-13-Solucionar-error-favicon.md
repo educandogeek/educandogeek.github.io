@@ -4,6 +4,7 @@ title: "Implementar un favicon a la dirección web de un blog hecho con plantill
 date: 2017-06-13
 tags: [Favicon, Error, jekyll-now, Solucion]
 author: Juanjo
+comment: true
 ---
 
 #### Publicado por Juanjo
