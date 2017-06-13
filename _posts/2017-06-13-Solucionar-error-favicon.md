@@ -34,7 +34,7 @@ Ha de quedar como muestra la siguiente imagen (he marcado de azul dónde se tien
 
 ![alt text](https://archive.org/download/FaviconSolucionDefinitiva/favicon%20solucion%20definitiva.png)
 
-Guardamos, recargamos y ya esta solucionado!
+Guardamos, recargamos y ya está solucionado!
 
 Fuentes donde he buscado la solución:
 
