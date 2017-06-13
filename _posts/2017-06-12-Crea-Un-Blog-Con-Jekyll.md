@@ -205,3 +205,16 @@ _________
 · [https://blog.desdelinux.net/hacer-blog-jekyll](https://blog.desdelinux.net/hacer-blog-jekyll)
 
 · [https://devexperto.com/blog-gratis-github-jekyll](https://devexperto.com/blog-gratis-github-jekyll)
+
+
+________
+
+Ya sabéis que podéis encontrarme en:
+
+· Correo electrónico: [educandogeek@gmail.com](mailto:educandogeek@gmail.com)
+
+· Twitter: [@jgurillo](https://twitter.com/jgurillo)
+
+· Suscríbete al Blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
+
+· Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html), [Podkas](http://www.podkas.com/directorio/educando-geek-de-jgurillo)
