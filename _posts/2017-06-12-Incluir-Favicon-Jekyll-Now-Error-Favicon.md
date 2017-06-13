@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Implementar un favicon a la dirección web de un blog hecho con plantilla jekyll-now"
-date: 2017-06-13
+date: 2017-06-12
 tags: [Favicon, Error, jekyll-now, Solucion]
 author: Juanjo
 comment: true
