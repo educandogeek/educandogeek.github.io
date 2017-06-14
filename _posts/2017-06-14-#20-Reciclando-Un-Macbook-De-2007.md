@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#20 Reciclando un MacBook de 2007 "
+title: "#20 Reciclando un MacBook de 2007"
 date: 2017-06-14
 categories: podcast
 tags: [Reciclar, Mackbook, Windows]

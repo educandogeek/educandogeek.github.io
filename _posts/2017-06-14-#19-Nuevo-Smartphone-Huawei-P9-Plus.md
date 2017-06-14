@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "#19 Nuevo smartphone - Huawei P9 Plus "
+title: "#19 Nuevo smartphone - Huawei P9 Plus"
 date: 2017-06-14
 categories: podcast
-tags: [Reciclar, Tecnologia, Iphone]
+tags: [Androi, Huawei]
 permalink: /19/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/19NuevoSmartphoneHuaweiP9Plus/19-nuevo-smartphone-huawei-p9-plus.mp3
