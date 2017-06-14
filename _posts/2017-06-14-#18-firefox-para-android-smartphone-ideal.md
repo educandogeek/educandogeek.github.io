@@ -4,7 +4,7 @@ title: "#18 Firefox para Android - Car charger Xiaomi - El smartphone ideal - Ag
 date: 2017-06-14
 categories: podcast
 tags: [Recilar, Tecnologia, Iphone]
-permalink: /17/
+permalink: /18/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/18FirefoxParaAndroidSmartphoneIdeal/18-firefox-para-android-smartphone-ideal.mp3
 comment: true
@@ -18,7 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
-[Dejar aquí tu comentario]()
+[Deja aquí tu comentario](https://educandogeek.github.io/18/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
