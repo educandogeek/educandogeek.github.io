@@ -30,7 +30,7 @@ comment: true
 Telegram se ha convertido en la App de mensajería más completa y versátil por muchas razones. Es multiplataforma, permite el envío de archivos pesados, etc.
 En este capítulo analizo las características más interesantes que tiene esta aplicación para mi y os lanzo la siguiente pregunta a tenor de recientes acontecimientos como denuncias y cierres de canales. ¿Tiene Telegram los días contados?
 
-[Bot Torrzan](Descarga de torrents vía Telegram)](http://www.torrzan.com/?_utm_source=1-2-2)
+[Bot Torrzan (Descarga de torrents vía Telegram)](http://www.torrzan.com/?_utm_source=1-2-2)
 
 
 [Mp3]: https://archive.org/download/11TelegramBotsCanalesTieneTelegramLosDiasContados/11%20Telegram%20Bots%20-%20Canales%20-%20Tiene%20Telegram%20los%20dias%20contados.mp3
