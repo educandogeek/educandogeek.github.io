@@ -33,9 +33,9 @@ En este capítulo os hablo de:
 
 Enlaces a sitios de descarga e instrucciones para crear nuestro Live USB Chrome OS:
 
-  · [http://www.neverware.com/freedownload](http://www.neverware.com/freedownload)
-  · [https://hipertextual.com/2015/07/instalar-chrome-os](https://hipertextual.com/2015/07/instalar-chrome-os)
-[  · http://chromium.arnoldthebat.co.uk/](http://chromium.arnoldthebat.co.uk/)
+  · [http://www.neverware.com/freedownload](http://www.neverware.com/freedownload)  
+  · [https://hipertextual.com/2015/07/instalar-chrome-os](https://hipertextual.com/2015/07/instalar-chrome-os)  
+  · [http://chromium.arnoldthebat.co.uk/](http://chromium.arnoldthebat.co.uk/)  
 
 También os hablo de la [tarjeta prepago de débito de Correos](https://correosprepago.es/)
 
