@@ -6,7 +6,7 @@ categories: podcast
 tags: [Yoigo, Descargar, Torrent, Vacunacion]
 permalink: /3/
 image: images/caratula.jpg
-podcast_link: https://archive.org/download/03YoigoCapaLosTorrentsVacunacinInfantil/03%20Yoigo%20capa%20los%20torrents%20-%20Vacunaci%C3%B3n%20Infantil.mp3
+podcast_link: https://archive.org/download/03YoigoCapaLosTorrentsVacunacionInfantil/03-yoigo-capa-los-torrents-vacunacion-infantil.mp3
 comment: true
 ---
 
@@ -18,6 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
+[Deja aquí tu comentario](https://educandogeek.github.io/3/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
@@ -31,4 +32,4 @@ Estoy teniendo problemas con la descarga de torrents mediante la red de datos de
 Vacunación de nuestros hijos. Si quieres que tu hijo esté vacunado y protegido al 100% te va a tocar rascarte el bolsillo. Así se hacen las cosas en este país.
 
 
-[Mp3]: https://archive.org/download/03YoigoCapaLosTorrentsVacunacinInfantil/03%20Yoigo%20capa%20los%20torrents%20-%20Vacunaci%C3%B3n%20Infantil.mp3
+[Mp3]: https://archive.org/download/03YoigoCapaLosTorrentsVacunacionInfantil/03-yoigo-capa-los-torrents-vacunacion-infantil.mp3

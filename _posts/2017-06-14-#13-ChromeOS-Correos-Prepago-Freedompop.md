@@ -6,7 +6,7 @@ categories: podcast
 tags: [Chrome, Correos, Freedompop]
 permalink: /13/
 image: images/caratula.jpg
-podcast_link: https://archive.org/download/13ChromebookCaseroCorreosPrepagoMastercardYFreedompop/13%20Chromebook%20casero,%20Correos%20prepago%20Mastercard%20y%20Freedompop.mp3
+podcast_link: https://archive.org/download/13ChromebookCaseroCorreosPrepagoMastercardFreedompop/13-chromebook-casero-correos-prepago-mastercard-freedompop.mp3
 comment: true
 ---
 
@@ -18,6 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
+[Deja aquí tu comentario](https://educandogeek.github.io/13/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
@@ -41,4 +42,4 @@ También os hablo de la [tarjeta prepago de débito de Correos](https://correosp
 
 Por último, os hablo del servicio que acabo de solicitar. La tarjeta SIM de Freedompop con 100 minutos de voz, 200 MB de datos y 300 SMS gratis. El coste es de 11,98€ y se paga en el momento de la solicitud y alta. El pago es único y no hay mensualidades posteriores. De momento es para altas nuevas, no se harán portabilidades hasta el final del verano. [Podéis solicitarlo aquí](https://www.freedompop.com/es).
 
-[Mp3]: https://archive.org/download/13ChromebookCaseroCorreosPrepagoMastercardYFreedompop/13%20Chromebook%20casero,%20Correos%20prepago%20Mastercard%20y%20Freedompop.mp3
+[Mp3]: https://archive.org/download/13ChromebookCaseroCorreosPrepagoMastercardFreedompop/13-chromebook-casero-correos-prepago-mastercard-freedompop.mp3

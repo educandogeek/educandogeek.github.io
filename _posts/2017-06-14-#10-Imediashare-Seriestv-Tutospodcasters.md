@@ -6,7 +6,7 @@ categories: podcast
 tags: [Imediashare, Seriestv, Tutorial, Podcast, Podcast, Crear]
 permalink: /10/
 image: images/caratula.jpg
-podcast_link: https://archive.org/download/10AppsIMediashareSeriesTVTutorialesPodcasters/10%20Apps%20iMediashare%20-%20SeriesTV%20-%20Tutoriales%20Podcasters.mp3
+podcast_link: https://archive.org/download/10ImediashareSeriestvTutorialesPodcasters/10-imediashare-seriestv-tutoriales-podcasters.mp3
 comment: true
 ---
 
@@ -18,6 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
+[Deja aquí tu comentario](https://educandogeek.github.io/10/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
@@ -46,4 +47,4 @@ Agradecimientos al podcast de [`"Supongo que geek"`](https://www.ivoox.com/podca
 *Ruego disculpéis los fallos y saltos que hay en la música al principio y final.*
 
 
-[Mp3]: https://archive.org/download/10AppsIMediashareSeriesTVTutorialesPodcasters/10%20Apps%20iMediashare%20-%20SeriesTV%20-%20Tutoriales%20Podcasters.mp3 
+[Mp3]: https://archive.org/download/10ImediashareSeriestvTutorialesPodcasters/10-imediashare-seriestv-tutoriales-podcasters.mp3

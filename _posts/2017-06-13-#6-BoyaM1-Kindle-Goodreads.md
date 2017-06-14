@@ -6,7 +6,7 @@ categories: podcast
 tags: [Boya, Kindle, Goodreads]
 permalink: /6/
 image: images/caratula.jpg
-podcast_link: https://archive.org/download/06MicroBoyaM1KindleGoodreadsLecturas_20170613/06%20Micro%20Boya%20M1%20-%20Kindle%20-%20Goodreads%20-%20Lecturas.mp3
+podcast_link: https://archive.org/download/06MicroBoyam1KindleGoodreadsLecturas_20170614/06-micro-boyam1-kindle-goodreads-lecturas.mp3
 comment: true
 ---
 
@@ -18,6 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
+[Deja aquí tu comentario](https://educandogeek.github.io/6/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
@@ -31,4 +32,4 @@ Os hablo de una nueva adquisición para crear contenido en el Podcast: el micró
 
 
 
-[Mp3]: https://archive.org/download/06MicroBoyaM1KindleGoodreadsLecturas_20170613/06%20Micro%20Boya%20M1%20-%20Kindle%20-%20Goodreads%20-%20Lecturas.mp3
+[Mp3]: https://archive.org/download/06MicroBoyam1KindleGoodreadsLecturas_20170614/06-micro-boyam1-kindle-goodreads-lecturas.mp3

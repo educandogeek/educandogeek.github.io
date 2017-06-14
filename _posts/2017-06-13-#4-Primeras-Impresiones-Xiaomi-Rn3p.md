@@ -1,12 +1,12 @@
 ---
 layout: post
-title: "#02 Esperando el Xiaomi Redmi Note 3 Pro"
+title: "#04 Mis primeras impresiones con el Xiaomi Redmi Note 3 Pro"
 date: 2017-06-13
 categories: podcast
-tags: [Android, Xiaomi, Redmi, RNP3]
-permalink: /2/
+tags: [Android, Xiaomi, RN3P, Redmi]
+permalink: /4/
 image: images/caratula.jpg
-podcast_link: https://archive.org/download/02EsperandoElXiaomiRedmiNote3Pro/02%20Esperando%20el%20Xiaomi%20Redmi%20Note%203%20Pro.mp3 
+podcast_link: https://archive.org/download/04PrimeraTomaDeContatctoXiaomiRn3pro_201706/04-primera-toma-de-contatcto-xiaomi-rn3pro.mp3
 comment: true
 ---
 
@@ -18,6 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
+[Deja aquí tu comentario](https://educandogeek.github.io/4/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
@@ -27,7 +28,7 @@ comment: true
 [Descarga][Mp3]
 
 
-Me he comprado el Xiaomi Redmi Note 3 Pro de 32 GB de memoria interna y 3 GB de ram. En pocos días podré comentar impresiones.
+En este capítulo os comento cuáles son mis primeras impresiones con el Xiaomi Redmi Note 3 Pro, que ya os adelanto que son muy buenas.
 
 
-[Mp3]: https://archive.org/download/02EsperandoElXiaomiRedmiNote3Pro/02%20Esperando%20el%20Xiaomi%20Redmi%20Note%203%20Pro.mp3
+[Mp3]: https://archive.org/download/04PrimeraTomaDeContatctoXiaomiRn3pro_201706/04-primera-toma-de-contatcto-xiaomi-rn3pro.mp3

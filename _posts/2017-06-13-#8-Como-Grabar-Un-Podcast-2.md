@@ -6,7 +6,7 @@ categories: podcast
 tags: [Grabar, Podcast]
 permalink: /8/
 image: images/caratula.jpg
-podcast_link: https://archive.org/download/08CmoHacerUnPodcastCorrecciinDeErrores/08%20C%C3%B3mo%20hacer%20un%20Podcast%20-%20Correcci%C3%B3n%20de%20errores.mp3
+podcast_link: https://archive.org/download/08ComoHacerUnPodcastCorreccionErrores/08-como-hacer-un-podcast-correccion-errores.mp3
 comment: true
 ---
 
@@ -18,6 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
+[Deja aquí tu comentario](https://educandogeek.github.io/8/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
@@ -28,9 +29,11 @@ comment: true
 
 
 En el pasado episodio #5 en el que os conté cómo puse en marcha mi podcast, dije alguna cosa errónea. Si iVoox se alimenta de Spreaker y borramos un capítulo de Spreaker, ya no podremos descargarlo ni reproducirlo en iVoox.
-La ruta que describo en el podcast es (desde un explorador de archivos en Android):
-Almacenamiento local `/Android/data/com.spreaker.android.studio/files/draft_"numeración".mp3`
+
+La ruta que describo en el podcast es (desde un explorador de archivos en Android): 
+
+  - Almacenamiento local `/Android/data/com.spreaker.android.studio/files/draft_"numeración".mp3`
 
 
 
-[Mp3]: https://archive.org/download/08CmoHacerUnPodcastCorrecciinDeErrores/08%20C%C3%B3mo%20hacer%20un%20Podcast%20-%20Correcci%C3%B3n%20de%20errores.mp3
+[Mp3]: https://archive.org/download/08ComoHacerUnPodcastCorreccionErrores/08-como-hacer-un-podcast-correccion-errores.mp3

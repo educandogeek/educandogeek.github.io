@@ -3,7 +3,7 @@ layout: post
 title: "#18 Firefox para Android - Car charger Xiaomi - El smartphone ideal - Agradecimientos comentarios"
 date: 2017-06-14
 categories: podcast
-tags: [Recilar, Tecnologia, Iphone]
+tags: [Reciclar, Tecnologia, Iphone]
 permalink: /18/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/18FirefoxParaAndroidSmartphoneIdeal/18-firefox-para-android-smartphone-ideal.mp3

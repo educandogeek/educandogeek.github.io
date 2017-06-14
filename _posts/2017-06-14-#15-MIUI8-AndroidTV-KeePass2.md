@@ -6,7 +6,7 @@ categories: podcast
 tags: [Miui8, Androidtv, Keepass2]
 permalink: /15/
 image: images/caratula.jpg
-podcast_link: https://archive.org/download/15MIUI8AndroidTVMXQProPlusKeePass2GestorDePasswords/15%20MIUI8%20-%20Android%20TV%20MXQ%20Pro%20Plus%20-%20KeePass2%20gestor%20de%20passwords.mp3
+podcast_link: https://archive.org/download/15Miui8AndroidtvKeepass2/15-miui8-androidtv-keepass2.mp3
 comment: true
 ---
 
@@ -18,6 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
+[Deja aquí tu comentario](https://educandogeek.github.io/15/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
@@ -25,8 +26,6 @@ comment: true
 
 
 [Descarga][Mp3]
-
-
 
 
 En el capítulo de hoy:
@@ -54,4 +53,4 @@ En el capítulo de hoy:
 - [Web del desarrolador](http://keepass.info/download.html) con enlaces de descarga a otras plataformas .
 
 
-[Mp3]: https://archive.org/download/15MIUI8AndroidTVMXQProPlusKeePass2GestorDePasswords/15%20MIUI8%20-%20Android%20TV%20MXQ%20Pro%20Plus%20-%20KeePass2%20gestor%20de%20passwords.mp3
+[Mp3]: https://archive.org/download/15Miui8AndroidtvKeepass2/15-miui8-androidtv-keepass2.mp3

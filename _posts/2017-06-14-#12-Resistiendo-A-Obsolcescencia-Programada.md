@@ -6,7 +6,7 @@ categories: podcast
 tags: [Obsolescencia]
 permalink: /12/
 image: images/caratula.jpg
-podcast_link: https://archive.org/download/12ResistiendoALaObsolescenciaProgramada/12%20Resistiendo%20a%20la%20Obsolescencia%20Programada.mp3
+podcast_link: https://archive.org/download/12ResistiendoALaObsolescenciaProgramada_201706/12-resistiendo-a-la-obsolescencia-programada.mp3
 comment: true
 ---
 
@@ -18,6 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
+[Deja aquí tu comentario](https://educandogeek.github.io/12/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
@@ -38,4 +39,4 @@ Mis equipos supervivientes son:
 · Netbook Acer Aspire One de 2008 con Intel Atom, 1 GB ram y 250 GB HD con OpenMediaVault (NAS casero). Tenéis más información [aquí](http://es.jose-crispim.pt/artigos/armazenamento/armaz_art/06_openmediavault.html) *(usad el traductor de Google si no sabéis portugués)*
 
 
-[Mp3]: https://archive.org/download/12ResistiendoALaObsolescenciaProgramada/12%20Resistiendo%20a%20la%20Obsolescencia%20Programada.mp3
+[Mp3]: https://archive.org/download/12ResistiendoALaObsolescenciaProgramada_201706/12-resistiendo-a-la-obsolescencia-programada.mp3

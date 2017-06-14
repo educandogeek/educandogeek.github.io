@@ -6,7 +6,7 @@ categories: podcast
 tags: [Freedompop, Teclast]
 permalink: /16/
 image: images/caratula.jpg
-podcast_link: https://archive.org/download/16OperadoraFreedomPopTabletTeclastX80Pro/16%20Operadora%20FreedomPop%20-%20Tablet%20Teclast%20X80%20Pro.mp3
+podcast_link: https://archive.org/download/16FreedompopTeclastX80pro/16-freedompop-teclast-x80pro.mp3
 comment: true
 ---
 
@@ -18,6 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
+[Deja aquí tu comentario](https://educandogeek.github.io/16/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
@@ -46,4 +47,4 @@ En el capítulo de hoy:
    - [Enlace de compra no patrocinado para la tarjeta Micro SD de 128 Gb en Amazon por unos 12€](https://www.amazon.es/gp/product/B00LMLZCZY/ref=oh_aui_detailpage_o01_s00?ie=UTF8&;psc=1).
 
 
-[Mp3]: https://archive.org/download/16OperadoraFreedomPopTabletTeclastX80Pro/16%20Operadora%20FreedomPop%20-%20Tablet%20Teclast%20X80%20Pro.mp3
+[Mp3]: https://archive.org/download/16FreedompopTeclastX80pro/16-freedompop-teclast-x80pro.mp3

@@ -6,7 +6,7 @@ categories: podcast
 tags: [Paypa, Impresora]
 permalink: /14/
 image: images/caratula.jpg
-podcast_link: https://archive.org/download/14ComprasInternetImpresoraDomesticaConfigurarPaypalParaNoConversionDeDivisas/14%20Compras%20Internet%20-%20Impresora%20domestica%20-%20Configurar%20Paypal%20para%20no%20conversion%20de%20divisas.mp3
+podcast_link: https://archive.org/download/14ComprasImpresoraConfigurarPaypalDivisas/14-compras-impresora-configurar-paypal-divisas.mp3
 comment: true
 ---
 
@@ -18,6 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
+[Deja aquí tu comentario](https://educandogeek.github.io/14/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
@@ -37,4 +38,4 @@ En este capítulo os hablo de:
 [Tutorial](https://drive.google.com/open?id=1BtV8kvPPzU7utUZU5EXFnXISEDq7oVN7fwS-xQTDsP8)
 
 
-[Mp3]: https://archive.org/download/14ComprasInternetImpresoraDomesticaConfigurarPaypalParaNoConversionDeDivisas/14%20Compras%20Internet%20-%20Impresora%20domestica%20-%20Configurar%20Paypal%20para%20no%20conversion%20de%20divisas.mp3
+[Mp3]: https://archive.org/download/14ComprasImpresoraConfigurarPaypalDivisas/14-compras-impresora-configurar-paypal-divisas.mp3
