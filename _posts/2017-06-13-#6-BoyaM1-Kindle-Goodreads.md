@@ -27,7 +27,7 @@ comment: true
 [Descarga][Mp3]
 
 
-Os hablo de una nueva adquisición para crear contenido en el Podcast: el micrófono Boya M1. Analizo el tándem que forman el eBook de Amazon, el Kindle Paperwhite y la aplicación multiplataforma Goodreads, que es también una Red Social de lectores. Para terminar, recomiendo una lectura "El hombre en busca de sentido" de Victor E. Frankl
+Os hablo de una nueva adquisición para crear contenido en el Podcast: el micrófono Boya M1. Analizo el tándem que forman el eBook de Amazon, el Kindle Paperwhite y la aplicación multiplataforma Goodreads, que es también una Red Social de lectores. Para terminar, recomiendo una lectura _**"El hombre en busca de sentido"**_ de `Victor E. Frankl`
 
 
 
