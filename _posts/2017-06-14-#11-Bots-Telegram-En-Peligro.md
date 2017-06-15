@@ -3,7 +3,7 @@ layout: post
 title: "#11 Telegram bots  canales - ¿Tiene Telegram los días contados?"
 date: 2017-06-14
 categories: podcast
-tags: [Telegram, Bots]
+tags: [Podcast, Telegram, Bots]
 permalink: /11/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/11TelegramBotsCanalesTieneTelegramDiasContados/11-telegram-bots-canales-tiene-telegram-dias-contados.mp3
