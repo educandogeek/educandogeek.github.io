@@ -3,7 +3,7 @@ layout: post
 title: "#23 Tecnología y Educación"
 date: 2017-06-15
 categories: podcast
-tags: [Tecnologia, Educacion]
+tags: [Podcast, Tecnologia, Educacion]
 permalink: /23/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/23TecnologiaYEducacion/23-tecnologia-y-educacion.mp3
