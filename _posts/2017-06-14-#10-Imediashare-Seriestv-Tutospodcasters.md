@@ -3,7 +3,7 @@ layout: post
 title: "#10 Apps iMediaShare - Series TV - Tutoriales Podcast"
 date: 2017-06-14
 categories: podcast
-tags: [Imediashare, Seriestv, Tutorial, Podcast, Podcast, Crear]
+tags: [Podcast, Imediashare, Seriestv, Tutorial, Crear]
 permalink: /10/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/10ImediashareSeriestvTutorialesPodcasters/10-imediashare-seriestv-tutoriales-podcasters.mp3
