@@ -34,7 +34,7 @@ En este capítulo os hablo de:
 
 2. Kodi. Un completo Multimedia Center que hará "Magia" en vuestra TV, PC's o dispositivos portátiles.
 
-Toda la información que cito en este capítulo respecto a Kodi, la tenéis disponible aquí en mi blog.
+Toda la información que cito en este capítulo respecto a Kodi, la [tenéis disponible aquí en mi blog](https://educandogeek.github.io/Kodi/).
 
 3. Lectura recomendada "Taj" de Andrés Pascual. [Aquí reseña](https://www.goodreads.com/review/show/1775834538).
 
