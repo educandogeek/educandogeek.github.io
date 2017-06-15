@@ -2,14 +2,14 @@
 layout: post
 title: "Creación de un blog / podcast con Jekyll"
 date: 2017-06-12
-tags: [Blog, Jekyll, Git, Ruby, Tutorial, Crear]
+tags: [Blog, Jekyll, Git, Ruby, Tutorial, Crear, Podcasting]
 author: Juanjo
 comment: true
 ---
 
 #### Publicado por Juanjo
 
-## Tutorial para la creación de un blog usando Jekyll
+## Tutorial para la creación de un blog, que pueda incluir o no un podcast, usando Jekyll
 
 
 Mediante la herramienta Jekyll vamos a crear un blog que además, tendrá la posibilidad de crear la publicación de un podcast. Es decir, podremos publicar contenido escrito y además, podremos usarlo para publicar un podcast.
