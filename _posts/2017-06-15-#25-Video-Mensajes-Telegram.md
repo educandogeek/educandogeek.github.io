@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#25 Video mansajes en Telegram"
+title: "#25 Video mensajes en Telegram"
 date: 2017-06-15
 categories: podcast
 tags: [Podcast, Video, Mensajes, Telegram]
