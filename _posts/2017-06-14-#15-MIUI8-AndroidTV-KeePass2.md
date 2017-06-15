@@ -3,7 +3,7 @@ layout: post
 title: "#15 MIUI8 - Android TV MXQ Pro+ 2/16Gb - KeePass2 gestor de passwords"
 date: 2017-06-14
 categories: podcast
-tags: [Miui8, Androidtv, Keepass2]
+tags: [Podcast, Miui8, Androidtv, Keepass2]
 permalink: /15/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/15Miui8AndroidtvKeepass2/15-miui8-androidtv-keepass2.mp3
