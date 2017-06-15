@@ -3,7 +3,7 @@ layout: post
 title: "#17 Deshaciéndome de tecnología que no uso - Anécdota reparación"
 date: 2017-06-14
 categories: podcast
-tags: [Recilar, Tecnologia, Iphone]
+tags: [Podcast, Recilar, Tecnologia, Iphone]
 permalink: /17/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/17DesahaciendomeDeEquiposYAnecdota_201706/17-desahaciendome-de-equipos-y-anecdota.mp3
