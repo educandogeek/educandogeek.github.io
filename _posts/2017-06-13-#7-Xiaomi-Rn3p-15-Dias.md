@@ -3,7 +3,7 @@ layout: post
 title: "#07 15 días con el Xiaomi Redmi Note 3 Pro"
 date: 2017-06-13
 categories: podcast
-tags: [Xiaomi, Redmi, RN3P, Android]
+tags: [Podcast, Xiaomi, Redmi, RN3P, Android]
 permalink: /7/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/0715DiasConElXiaomiRn3pro/07-15-dias-con-el-xiaomi-rn3pro.mp3
