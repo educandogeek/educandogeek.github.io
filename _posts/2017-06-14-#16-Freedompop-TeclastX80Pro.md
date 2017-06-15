@@ -3,7 +3,7 @@ layout: post
 title: "#16 OMV FreedomPop - Teclast X80 Pro"
 date: 2017-06-14
 categories: podcast
-tags: [Freedompop, Teclast]
+tags: [Podcast, Freedompop, Teclast]
 permalink: /16/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/16FreedompopTeclastX80pro/16-freedompop-teclast-x80pro.mp3
