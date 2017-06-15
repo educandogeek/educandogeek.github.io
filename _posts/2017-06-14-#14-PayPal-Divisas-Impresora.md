@@ -3,7 +3,7 @@ layout: post
 title: "#14 Tutorial configurar PayPal para la no conversión de divisas - Compras Internet - Impresora Doméstica"
 date: 2017-06-14
 categories: podcast
-tags: [Paypa, Impresora]
+tags: [Pocast, Paypal, Impresora]
 permalink: /14/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/14ComprasImpresoraConfigurarPaypalDivisas/14-compras-impresora-configurar-paypal-divisas.mp3
