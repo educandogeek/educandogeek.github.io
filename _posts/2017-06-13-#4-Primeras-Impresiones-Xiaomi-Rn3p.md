@@ -3,7 +3,7 @@ layout: post
 title: "#04 Mis primeras impresiones con el Xiaomi Redmi Note 3 Pro"
 date: 2017-06-13
 categories: podcast
-tags: [Android, Xiaomi, RN3P, Redmi]
+tags: [Podcast, Android, Xiaomi, RN3P, Redmi]
 permalink: /4/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/04PrimeraTomaDeContatctoXiaomiRn3pro_201706/04-primera-toma-de-contatcto-xiaomi-rn3pro.mp3
