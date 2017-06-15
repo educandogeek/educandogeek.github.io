@@ -3,7 +3,7 @@ layout: post
 title: "#12 Resistiendo a la obsolescencia programada"
 date: 2017-06-14
 categories: podcast
-tags: [Obsolescencia]
+tags: [Podcast, Obsolescencia]
 permalink: /12/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/12ResistiendoALaObsolescenciaProgramada_201706/12-resistiendo-a-la-obsolescencia-programada.mp3
