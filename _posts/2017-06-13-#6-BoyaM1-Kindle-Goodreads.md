@@ -3,7 +3,7 @@ layout: post
 title: "#06 Micrófono Boya M1 - Kindle Paperwhite - Goodreads, RRSS para lectores"
 date: 2017-06-13
 categories: podcast
-tags: [Boya, Kindle, Goodreads]
+tags: [Podcast, Boya, Kindle, Goodreads]
 permalink: /6/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/06MicroBoyam1KindleGoodreadsLecturas_20170614/06-micro-boyam1-kindle-goodreads-lecturas.mp3
