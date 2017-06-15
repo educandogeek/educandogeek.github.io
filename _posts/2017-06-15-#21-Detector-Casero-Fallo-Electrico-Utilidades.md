@@ -3,7 +3,7 @@ layout: post
 title: "#21 Detector casero de fallo eléctrico en el domicilio y utilidades"
 date: 2017-06-15
 categories: podcast
-tags: [Dectector, Android, Electricidad]
+tags: [Podcast, Dectector, Android, Electricidad]
 permalink: /21/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/21DetectorCaseroFalloElectricoUtilidades/21-detector-casero-fallo-electrico-utilidades.mp3
