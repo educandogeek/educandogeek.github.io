@@ -3,7 +3,7 @@ layout: post
 title: "#03 Yoigo capa las descargas por Torrent - Vacunación"
 date: 2017-06-13
 categories: podcast
-tags: [Yoigo, Descargar, Torrent, Vacunacion]
+tags: [Podcast, Yoigo, Descargar, Torrent, Vacunacion]
 permalink: /3/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/03YoigoCapaLosTorrentsVacunacionInfantil/03-yoigo-capa-los-torrents-vacunacion-infantil.mp3
