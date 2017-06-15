@@ -3,7 +3,7 @@ layout: post
 title: "#13 ChromeOS en un USB - Tarjeta prepago de Correos - OMV Freedompop"
 date: 2017-06-14
 categories: podcast
-tags: [Chrome, Correos, Freedompop]
+tags: [Podcast, Chromeos, Correos, Freedompop]
 permalink: /13/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/13ChromebookCaseroCorreosPrepagoMastercardFreedompop/13-chromebook-casero-correos-prepago-mastercard-freedompop.mp3
