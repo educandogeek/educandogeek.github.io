@@ -3,7 +3,7 @@ layout: post
 title: "#08 Cómo grabar un Pocast 2ª parte y correcciones"
 date: 2017-06-13
 categories: podcast
-tags: [Grabar, Podcast]
+tags: [Podcast, Grabar, Tutorial]
 permalink: /8/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/08ComoHacerUnPodcastCorreccionErrores/08-como-hacer-un-podcast-correccion-errores.mp3
