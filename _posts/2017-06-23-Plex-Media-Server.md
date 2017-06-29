@@ -85,6 +85,10 @@ sudo dpkg -i plexmediaserver*.deb
 *Lo demás es lo mismo que para Arch*
 
 
+### Gestión mediante el navegador web
+
+· Gestionar Plex Media Server desde el navegador web en `http://localhost:32400/web/`
+
 
 ### Habilitar DLNA / UPNP
 
