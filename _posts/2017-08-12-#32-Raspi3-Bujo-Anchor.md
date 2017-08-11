@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "#32 Montando un servidor con una Raspberry Pi 3 - Mi nuevo sistema de organización personal analógico, el Bullet Journal - Leyendo Voy, mi nuevo podcast de libros y lectura en Anchor"
-date: 2017-08-1
+date: 2017-08-12
 categories: podcast
 tags: [Podcast, Raspberry, Bullet, Journal, Bujo, Raspi3, Anchor]
 permalink: /32/
