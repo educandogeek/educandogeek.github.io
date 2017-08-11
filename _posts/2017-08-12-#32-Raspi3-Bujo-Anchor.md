@@ -60,7 +60,7 @@ Puedes encontrar *Leyendo Voy* en iTunes y en [Anchor](https://anchor.fm/). Si t
 
 ![image](https://archive.org/download/photo_2017-08-12_00-07-29/photo_2017-08-12_00-07-29.jpg)
 
-Puedes seguir **Leyendo Voy** de las siguientes maneras.
+Puedes suscribirte al Podcast **Leyendo Voy** de las siguientes maneras.
 
 - [Feed RSS](http://feeds.feedburner.com/leyendovoy)
 
