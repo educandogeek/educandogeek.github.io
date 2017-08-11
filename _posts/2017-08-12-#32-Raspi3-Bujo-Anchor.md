@@ -56,15 +56,16 @@ También **os recomiendo un video de Youtube muy bueno** que ilustra magníficam
 
 He iniciado un nuevo podcast donde no voy a hablar nada de tecnología. El podcast se llama **Leyendo Voy** y en él, voy a hablar de lectura y libros, así que si te gusta la lectura, no dejes de pasarte por el podcast.
 
-Puedes encontrar *Leyendo Voy* en iTunes y en [Anchor](https://anchor.fm/). Si tenéis cuenta en Anchor, me podréis encontrar como **jgurillo** o también como **Leyendo Voy**.
-
-![image](https://archive.org/download/photo_2017-08-12_00-07-29/photo_2017-08-12_00-07-29.jpg)
-
-Puedes suscribirte al Podcast **Leyendo Voy** de las siguientes maneras.
+*Puedes suscribirte* al Podcast **Leyendo Voy** de las siguientes maneras.
 
 - [Feed RSS](http://feeds.feedburner.com/leyendovoy)
 
 - [iTunes](https://itunes.apple.com/es/podcast/leyendo-voy/id1268769276)
+
+Si tenéis cuenta en [Anchor](https://anchor.fm/), me podréis encontrar como **jgurillo** o también como **Leyendo Voy**.
+
+![image](https://archive.org/download/photo_2017-08-12_00-07-29/photo_2017-08-12_00-07-29.jpg)
+
 
 
 [Mp3]: https://archive.org/download/32Raspi3BujoAnchor/32-raspi3-bujo-anchor.mp3
