@@ -54,9 +54,7 @@ sudo pacman -S ttf-ubuntu-font-family arc-gtk-theme arc-firefox-theme screenfetc
 
 ## 04 Instalar HP Deskjet 2540
 
-1. Iniciar sesion como root.
-Usuario: root
-Password: ubuntu
+1. Iniciar sesion en el equipo como root.
 2. En el navegador escribir
 localhost:361
 3. Administration
