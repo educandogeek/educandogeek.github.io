@@ -226,7 +226,7 @@ Yo he tenido que hacer lo mismo con la clave pública D9C4D26D0E604491
 redshift-gtk -l 38.5080:-0.2286 -t 6500:3500 -g 0.8 -m vidmode -v
 ```
 
-Personalmente sólo uso la orden ya que lo de detrás no es necesario
+Personalmente sólo uso esta otra orden más corta, ya que lo de detrás no es necesario
 
 ```
 redshift-gtk -l 38.5080:-0.2286 -t 6500:3500
