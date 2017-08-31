@@ -44,11 +44,11 @@ sudo pacman-mirrors -g
 - Wine (para poder instalar programas de windows)
 - Yaourt (para poder instalar paquetes de Aur)
 - Retext (para escribir en Markdown)
-
+- Vidcutter (para cortar o unir vídeos, rápido y sin pérdida de calidad)
 Podemos instalar todo de golpe desde la terminal concatenando los paquetes con la siguiente orden. Copia y pega en la terminal y borra los paques que no quieras instalar. Después pulsa enter.
 
 ```
-sudo pacman -S ttf-ubuntu-font-family arc-gtk-theme arc-firefox-theme screenfetch imagewriter etcher plank keepassx2 dropbox transmission-gtk wine yaourt retext
+sudo pacman -S ttf-ubuntu-font-family arc-gtk-theme arc-firefox-theme screenfetch imagewriter etcher plank keepassx2 dropbox transmission-gtk wine yaourt retext vidcutter
 ```
 
 
