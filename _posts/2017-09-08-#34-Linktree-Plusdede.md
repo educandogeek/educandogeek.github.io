@@ -18,7 +18,7 @@ comment: true
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
-[Deja aquí tu comentario](https://educandogeek.github.io/33/)
+[Deja aquí tu comentario](https://educandogeek.github.io/34/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">

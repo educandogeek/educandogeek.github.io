@@ -1,0 +1,96 @@
+---
+layout: post
+title: "#35 IFTTT"
+date: 2017-10-01
+categories: podcast
+tags: [Podcast, IFTTT, Android, Automatización]
+permalink: /35/
+image: images/caratula.jpg
+podcast_link: https://archive.org/download/35Ifttt/35-ifttt.mp3
+comment: true
+---
+
+#### Publicado por Juanjo
+
+[https://educandogeek.github.io](https://educandogeek.github.io)
+
+· Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
+
+· Suscríbete al Blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
+
+[Deja aquí tu comentario](https://educandogeek.github.io/35/)
+
+<audio controls>
+  <source src="{{ page.podcast_link }}" type="audio/mp3">
+</audio>
+
+
+[Descarga][Mp3]
+
+
+En el capítulo de hoy:
+
+## IFTTT
+
+![img](https://lh3.googleusercontent.com/_Hav1IiP-O6FTVulIgbD7TXg8fUuhTZJxdxmXyBbxlTM9p8X3YW60kKzT-S9D9foInA=w300)
+
+IFTTT es la abreviación de "If this, then that", es decir, que si sucede una cosa, automáticamente se producirá otra. Esas cosas pueden ir desde recibir un correo si va a llover hasta cambiar nuestro fondo de pantalla cada vez que hacemos una foto. Las combinaciones son interminables.
+
+![img](http://www.roldos.es/blog/wp-content/uploads/ifthis.png)
+
+Lo que hace IFTTT es automatizar tareas en base a servicios predefinidos. Nos conecta unos servicios con otros y esto es especialmente útil para que al realizar una acción, se desencadene otra en otro servicio conectado.
+
+Por citar alguno de estos servicios, tenéis: Gmail, Telegram, Wordpress, Lector de Feeds, Facebook, Instagram, Evernote, Twitter, Spotify, Dropbox, Google Drive, etc. 
+La lista es inmensa y supera los 500 servicios. Encontraréis más información instalando la App [https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es o en la web oficial https://ifttt.com/](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es o en la web oficial https://ifttt.com/)
+
+![img](https://cnet2.cbsistatic.com/img/BDb2kodllJnDnsvSohqyg7xrRkg=/2015/11/16/e55d7772-e289-4d2e-ab04-460a4fcd65de/ifttt-action-channels.jpg)
+
+Todas estas recetas se pueden desactivar desde la propia aplicación con un sencillo conmutador on/off. 
+
+La interfaz de la aplicación es agradable o amigable como se dice ahora y bastante intuitiva. El proceso de creación de recetas es guiado y solo consiste en conectar los dos servicios de los mas de 500 disponibles. El primer servicio que conectemos será el que desencadene la acción en el segundo servicio. 
+
+![img](http://www.clasesdeperiodismo.com/wp-content/uploads/2013/12/IFTTT-for-iPhone-Intro-Screen-01.png)
+
+Paso ahora a detallar las recetas que yo uso.
+
+Recetas de ubicación:
+
+- Si llego a mi lugar de trabajo, entonces silencia el teléfono.
+- Si salgo de mi lugar de trabajo, entonces sube al 100% el volumen del teléfono.
+- Si me desplazo a cierto lugar prestablecido, entonces manda un email a mi mujer avisándola de ello.
+
+Recetas meteorológicas:
+
+- Si hay predicción de lluvia, entonces avísame por email.
+- Si son las 9 de la noche, entonces mándame un email con la predicción meteorológica de mañana.
+
+Recetas de Feed:
+
+- Si publico una nueva entrada en el blog de mi clase, entonces publica en el canal de Telegram de las familias de mis alumnos un aviso con el enlace a esa nuevo post del blog.
+- Si publico un nuevo capítulo en mi podcast, entonces publica en mi cuenta de Twitter un aviso con el enlace a ese nuevo capítulo.
+- Si publico un nuevo video en el canal de Youtube de mi clase, entonces publica en el canal de Telegram de las familias de mis alumnos ese video.
+
+Recetas horarias:
+
+- Si son las 9 de la noche, entonces baja el volumen de mi telefono al 20%
+- Si son las 8 de la mañana, entonces sube el volumen de mi teléfono al 100%
+
+Estos son algunas de las recetas que uso, pero las combinaciones que podéis hacer son realmente infinitas. Algunas de ellas nos pueden ser realmente útiles. Desactivar el WiFi al salir de casa y activarlo al volver, recibir una notificación si se nos desconecta el WiFi para no llevarnos una sorpresa con el consumo de datos y la factura, subir el volumen al máximo después de una llamada perdida, subir el volumen al máximo si te llaman de un número concreto. Podéis aplicar estas recetas y otras muchas más desde este enlace https://goo.gl/qzto9G de Xataka Android.
+
+Por poner una pega, me gustaría poder agrupar las recetas en la aplicación por tipos de servicios o según mi propio criterio. Ahora las recetas se van guardando según el orden en que las creas y si tienes muchas puede resultar un poco lioso el encontrar una de ellas para hacer una modificación o para desactivarla o borrarla. Si que es cierto que te deja personalizar y cambiar el título de la receta, pero me gustaría como digo, el poder agruparlas por categorías.
+
+
+
+
+
+
+
+· Correo del programa: [educandogeek@gmail.com](mailto:educandogeek@gmail.com)
+
+· Twitter: [@jgurillo](https://twitter.com/jgurillo)
+
+Recordaros también que si os gustan los libros y la lectura, tenéis disponible mi otro podcast donde encontraréis reseñas de todos los libros que voy leyendo. Sin espoilers y con una duración cortita de entre 5 y 10 minutos. Lo podéis encontrar bajo el nombre de Leyendo Voy en las plataformas de iTunes, Anchor, iVoox y Spreaker, o añadiendo manualmente el siguiente feed [http://feeds.feedburner.com/leyendovoy](http://feeds.feedburner.com/leyendovoy)
+
+
+
+[Mp3]: https://archive.org/download/35Ifttt/35-ifttt.mp3
