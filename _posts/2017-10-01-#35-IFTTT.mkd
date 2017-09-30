@@ -41,7 +41,7 @@ IFTTT es la abreviación de "If this, then that", es decir, que si sucede una co
 Lo que hace IFTTT es automatizar tareas en base a servicios predefinidos. Nos conecta unos servicios con otros y esto es especialmente útil para que al realizar una acción, se desencadene otra en otro servicio conectado.
 
 Por citar alguno de estos servicios, tenéis: Gmail, Telegram, Wordpress, Lector de Feeds, Facebook, Instagram, Evernote, Twitter, Spotify, Dropbox, Google Drive, etc. 
-La lista es inmensa y supera los 500 servicios. Encontraréis más información instalando la App [https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es o en la web oficial https://ifttt.com/](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es o en la web oficial https://ifttt.com/)
+La lista es inmensa y supera los 500 servicios. Encontraréis más información instalando la App [https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es) o en la web oficial [https://ifttt.com/](https://play.google.com/store/apps/details?id=com.ifttt.ifttt&hl=es o en la web oficial https://ifttt.com/)
 
 ![img](https://cnet2.cbsistatic.com/img/BDb2kodllJnDnsvSohqyg7xrRkg=/2015/11/16/e55d7772-e289-4d2e-ab04-460a4fcd65de/ifttt-action-channels.jpg)
 
