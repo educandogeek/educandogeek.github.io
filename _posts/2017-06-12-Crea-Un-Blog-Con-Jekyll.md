@@ -113,6 +113,12 @@ Seguramente se llamarán id_rsa y id_rsa.pub o adquirán el nombre que has elegi
 
 Ahora abre el fichero acabado en .pub con algún editor de textos que te permita copiar el contenido, copia el contenido y ves a [github.com](https://github.com)
 
+######Ahora vamos a github.com
+
+Haz click en tu foto de perfil de arriba a la derecha, después ve a settings > SSH and GPG keys > New SSH key. Pégalo y finalizar
+
+A partir de ahora ya tienes permisos para subir cambios a tus repositorios en local.
+
 ![alt text](https://ugeek.github.io/img/post/github_key.png)
 
 Si te sale lo primero, haz click sobre Use SSH y después haz click sobre el botón de copiar que hay debajo (o copia la url que te aparece debajo), si te sale lo segundo, haz click sobre el botón copiar de abajo directamente para copiar la url
