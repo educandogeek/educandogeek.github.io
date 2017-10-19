@@ -38,7 +38,7 @@ Volver a casa por la noche y sin compañía, salir a correr sin decir a dónde v
 
 Seguro que tú le encuentras un uso a esta nueva característica.
 
-![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSS-fJon25SWTL8yNqANMK0JYw9XSETqSo8jybT0rRW1LCWMA5)
+![img](http://e.rpp-noticias.io/normal/2017/04/17/243824_387309.jpg)
 
 
 · Correo del programa: [educandogeek@gmail.com](mailto:educandogeek@gmail.com)
