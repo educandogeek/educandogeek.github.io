@@ -32,7 +32,7 @@ En el capítulo de hoy:
 
 ## Telegram implementó mucho antes que WhatsApp la _Ubicación en tiempo real_
 
-Correción al capítulo #37. Telegram incorporó en su actualización del dia 10 de octubre la funcionalidad de ubicarnos en tiempo real. Esto significa que debo hacer la corrección pertinente respecto a lo que afirmaba en mi anterior episodio.
+Correción al capítulo #37. Telegram incorporó en su actualización a la versión 4.4 del dia 10 de octubre la funcionalidad de ubicarnos en tiempo real. Esto significa que debo hacer la corrección pertinente respecto a lo que afirmaba en mi anterior episodio.
 
 Quede dicho entonces que Telegram SI incorpora la ubicación en tiempo real y de hecho, incluso mucho antes que WhatsApp.
 
