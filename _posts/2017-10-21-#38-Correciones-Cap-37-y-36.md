@@ -6,7 +6,7 @@ categories: podcast
 tags: [Podcast, Telegram, Ubicacion, Tiempo, Real, Simyo, Tarifa, Correcciones]
 permalink: /38/
 image: images/caratula.jpg
-podcast_link: https://archive.org/download/38CorreccionesCap37Y36/#38-correcciones-cap-37-y-36.mp3
+podcast_link: https://archive.org/download/38CorreccionesCap37Y36_201710/38-correcciones-cap-37-y-36.mp3
 comment: true
 ---
 
@@ -59,4 +59,4 @@ Recordaros también que si os gustan los libros y la lectura, tenéis disponible
 
 
 
-[Mp3]: https://archive.org/download/38CorreccionesCap37Y36/#38-correcciones-cap-37-y-36.mp3
+[Mp3]: https://archive.org/download/38CorreccionesCap37Y36_201710/38-correcciones-cap-37-y-36.mp3
