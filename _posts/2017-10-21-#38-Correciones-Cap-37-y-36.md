@@ -36,6 +36,8 @@ Correción al capítulo #37. Telegram incorporó en su actualización del dia 10
 
 Quede dicho entonces que Telegram SI incorpora la ubicación en tiempo real y de hecho, incluso mucho antes que WhatsApp.
 
+![img](https://imagekit.androidphoria.com/wp-content/uploads/Ubicacion-tiempo-real-Telegram.jpg)
+
 ## Bono Chat 300MB para Telegram y WhatsApp
 
 Corrección al capítulo #36. Simyo ofrece un bono que se denomina Chat donde por 0,99€ vamos a tener 300MB de datos que vamos a poder usar en las App's de Telegram y WhatsApp. Se incluyen las fantásticas llamadas de telefónicas de Telegram.
