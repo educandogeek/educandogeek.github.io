@@ -42,7 +42,7 @@ Quede dicho entonces que Telegram SI incorpora la ubicación en tiempo real y de
 
 Corrección al capítulo #36. Simyo ofrece un bono que se denomina Chat donde por 0,99€ vamos a tener 300MB de datos que vamos a poder usar en las App's de Telegram y WhatsApp. Se incluyen las fantásticas llamadas de telefónicas de Telegram.
 
-![img](https://i.imgur.com/GaQnAnR.png)
+![img](https://archive.org/download/GaQnAnR/GaQnAnR.png)
 
 ## Usos que doy a Telegram
 
