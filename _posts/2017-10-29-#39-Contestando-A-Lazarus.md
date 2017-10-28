@@ -38,6 +38,8 @@ Podéis escuchar el citado capítulo dónde Lázaro me hace las preguntas desde 
 
 Se trata de unas cuestiones relacionadas con la enseñanza, el fracaso escolar y la libertad de cátedra de los profesores.
 
+![img](http://www.centropsicologico-mpa.com/wp-content/uploads/2016/02/iStock_000035097396_Large.jpg)
+
 
 
 
