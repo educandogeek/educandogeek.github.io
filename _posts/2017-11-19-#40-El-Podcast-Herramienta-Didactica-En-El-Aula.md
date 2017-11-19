@@ -46,7 +46,7 @@ Mis alumnos han empezado a escribir por iniciativa propia y lo estan haciendo mu
 
 Como muestra, podréis escuchar el último Podcast que hemos grabado mi alumno Martín y yo.
 
-Aquí está la historia que ha escrito Martín - - Una fiesta de Halloween - [https://goo.gl/VnyCP9](https://goo.gl/VnyCP9)
+Aquí está la historia que ha escrito Martín - **Una fiesta de Halloween** - [https://goo.gl/VnyCP9](https://goo.gl/VnyCP9)
 
 Puedes subscribirte a **laclassedejgurillo Podcast** desde el **Feed** - [http://feeds.feedburner.com/laclassedejgurillo](http://feeds.feedburner.com/laclassedejgurillo)
 
