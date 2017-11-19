@@ -44,14 +44,13 @@ Los resultados son espectacularmente positivos.
 
 Mis alumnos han empezado a escribir por iniciativa propia y lo estan haciendo muy bien.
 
+Como muestra, podréis escuchar el último Podcast que hemos grabado mi alumno Martín y yo.
 
+Aquí está la historia que ha escrito Martín - - Una fiesta de Halloween - [https://goo.gl/VnyCP9](https://goo.gl/VnyCP9)
 
 Puedes subscribirte a **laclassedejgurillo Podcast** desde el **Feed** - [http://feeds.feedburner.com/laclassedejgurillo](http://feeds.feedburner.com/laclassedejgurillo)
 
 También puedes escuchar **laclassedejgurillo Podcast** desde **iVoox** en [https://www.ivoox.com/podcast-laclassedejgurillo-podcast_sq_f1289276_1.html](https://www.ivoox.com/podcast-laclassedejgurillo-podcast_sq_f1289276_1.html)
-
-
-
 
 · Correo del programa: [educandogeek@gmail.com](mailto:educandogeek@gmail.com)
 
