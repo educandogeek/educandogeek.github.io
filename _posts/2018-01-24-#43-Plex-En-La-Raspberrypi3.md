@@ -60,7 +60,7 @@ sudo apt-get update
 sudo apt-get install -t stretch plexmediaserver-installer
 ```
 
-### Establecer los permisos (yo este paso no lo he hecho)
+### Establecer los permisos
 
 ```
 sudo nano /etc/default/plexmediaserver.prev
