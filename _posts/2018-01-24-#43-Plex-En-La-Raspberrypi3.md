@@ -92,7 +92,8 @@ ip de la raspberry:32400/web/index.html
 
 _Fuente_ 
 [https://thepi.io/how-to-set-up-a-raspberry-pi-plex-server/](https://thepi.io/how-to-set-up-a-raspberry-pi-plex-server/)
-[https://www.raspberrypi.org/
+
+[https://www.raspberrypi.org/](https://www.raspberrypi.org/)
 
 
 
