@@ -30,7 +30,7 @@ comment: true
 
 En el capítulo de hoy:
 
-Este pasado mes de enero de 2018 me pude agenciar gracias al señor José Luís, alias @jgraumusic, a quien desde aquí doy las gracias, mi primer chromebook, un Asus C202SA. Se trata de un dispositivo concebido para entornos educativos, pero ideal para alguien que necesite un PC en movilidad extrema por sus dimensiones, peso y duración de batería.
+Este pasado mes de enero de 2018 me pude agenciar gracias al señor José Luís, alias @jgraumusic a quien desde aquí doy las gracias, mi primer chromebook, un Asus C202SA. Se trata de un dispositivo concebido para entornos educativos, pero ideal para alguien que necesite un PC en movilidad extrema por sus dimensiones, peso y duración de batería.
 
 ![img](http://img-us1.asus.com/A/show/AW000706/2016/0406/AM0000090/201604AM060000090_14598968477160610096485.jpg!t500x500)
 
