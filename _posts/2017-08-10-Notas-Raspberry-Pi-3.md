@@ -36,11 +36,14 @@ sudo raspi-config
 
 `Change timezone` / `Europa` / `Madrid`
 
+### Interfacing Options
+
+`SSH` / *para activar el acceso por SSH* / Yes
+
 ### Advanced options
 
 `Expand Filesistem` / *para usar toda la memoria SD*
 
-`SSH` / *para activar el acceso por SSH*
 
 ## Conexión por SSH
 
@@ -104,47 +107,77 @@ alias apagar='sudo poweroff && echo "Apagando"'
 alias reiniciar='sudo reboot && echo "Reiniciando"'
 ```
 
+### Alias para actualizar la Raspberry
+
+```
+alias actualizar='sudo apt update && sudo apt upgrade && clear && echo "Sistema Operativo Actualizado"'
+```
+
+### Alias para actualizar el Firmware de la Raspberry
+
+```
+alias firmware='sudo rpi-update && clear && echo "Firmware de Raspberry Pi Actualizado"'
+```
+
+### Alias para saber el estado de la memoria RAM y SWAP
+
+```
+alias memoria='free -m -h && df -h && echo "Uso de memoria RAM, Memoria SWAP y Memoria del sistema"'
+```
+
 guardamos, reiniciamos y ya funcionarán.
+
+### Resumen de los alias (los pongo todos agrupados)
+
+```
+alias temp='cat /sys/class/thermal/thermal_zone0/temp && vcgencmd measure_temp&& echo "Lectura de temperatura finalzada. 1ª=procesador 2ª=gráfica"'
+alias apagar='sudo poweroff && echo "Apagando"'
+alias reiniciar='sudo reboot && echo "Reiniciando"'
+alias actualizar='sudo apt update && sudo apt upgrade && clear && echo "Sistema Operativo Actualizado"'
+alias firmware='sudo rpi-update && clear && echo "Firmware de Raspberry Pi Actualizado"'
+alias memoria='free -m -h && df -h && echo "Uso de memoria RAM, Memoria SWAP y Memoria del sistema"'
+```
+
 
 ## Instalar Resilio
 
-1- Añadimos los repositorios:
+### 1- Añadimos los repositorios:
 
 ```
 echo "deb http://linux-packages.resilio.com/resilio-sync/deb resilio-sync non-free" | sudo tee /etc/apt/sources.list.d/resilio-sync.list
 ```
 
-2- Añadimos la clave pública con este comando:
+### 2- Añadimos la clave pública con este comando:
 
 ```
 wget -qO - https://linux-packages.resilio.com/resilio-sync/key.asc | sudo apt-key add -
 ```
 
-En su defecto tambien podemos usar este otro comando (el que yo he usado)
+En su defecto tambien podemos usar este otro comando pero el anterior tengo comprobado que funciona bien.
 
 ```
 curl -LO https://linux-packages.resilio.com/resilio-sync/key.asc && sudo apt-key add ./key.asc
 ```
 
-2- Actualizamos el repositorio:
+### 3- Actualizamos el repositorio:
 
 ```
-sudo apt update
+sudo apt-get update
 ```
 
-3- Instalamos Resilio
+### 4- Instalamos Resilio
 
 ```
 sudo apt-get install resilio-sync
 ```
 
-4- Hacemos que resilio arranque con el sistema
+### 5- Hacemos que resilio arranque con el sistema
 
 ```
 sudo systemctl enable resilio-sync
 ```
 
-5- otros comandos que se pueden necesitar serian:
+### 6- otros comandos que se pueden necesitar serian:
 
 ```
 sudo systemctl stop resilio-sync
@@ -159,7 +192,7 @@ Para entrar desde otro equipo escribimos 192.168.1.103:8888
 
 ## Instalar Syncthing
 
-Añadimos el repositorio
+### Añadimos el repositorio
 
 ```
 curl -s https://syncthing.net/release-key.txt | sudo apt-key add -
@@ -167,21 +200,23 @@ curl -s https://syncthing.net/release-key.txt | sudo apt-key add -
 sudo echo "deb https://apt.syncthing.net/ syncthing stable" | sudo tee /etc/apt/sources.list.d/syncthing.list
 ```
 
-Actualizamos los repositorios y comenzamos la instalación
+### Actualizamos los repositorios y comenzamos la instalación
 
 ```
 sudo apt-get update 
 
 sudo apt-get install syncthing
+
+syncthing
 ```
 
-Si queremos acceder desde otro dispositivo a la interfaz web de Syncthing, dentro de nuestra red local, es editar un archivo de configuración mediante SSH. Introduciremos esta línea en la Terminal y añadiremos la ip de nuestra Raspberry Pi, en lugar de 127.0.0.1.
+### Si queremos acceder desde otro dispositivo a la interfaz web de Syncthing, dentro de nuestra red local, es editar un archivo de configuración mediante SSH. Introduciremos esta línea en la Terminal y añadiremos la ip de nuestra Raspberry Pi, en lugar de 127.0.0.1.
 
 ```
 sudo nano ~/.config/syncthing/config.xml
 ```
 
-Cambiamos aquí la IP y ponemos la nuestra `192.168.1.103`
+### Cambiamos aquí la IP y ponemos la nuestra `192.168.1.103`
 
 ```
 <gui enabled="true" tls="false">
@@ -189,13 +224,13 @@ Cambiamos aquí la IP y ponemos la nuestra `192.168.1.103`
 </gui>
 ```
 
-Ahora creamos un script:
+### Ahora creamos un script:
 
 ```
 sudo nano /etc/init.d/syncthing
 ```
 
-Copiamos esto:
+### Copiamos esto:
 
 ```
 #!/bin/sh
@@ -310,43 +345,221 @@ status)  do_status;  exit $? ;;
 esac
 ```
 
-
-Damos poderes de ejecución
+### Damos poderes de ejecución
 
 ```
 sudo chmod +x /etc/init.d/syncthing
 ```
 
-Habilitamos que inicie cada vez que reiniciemos
+### Habilitamos que inicie cada vez que reiniciemos
 
 ```
 sudo update-rc.d syncthing defaults
 ```
 
-Ahora podemos iniciar así
+### Ahora podemos iniciar así
 
 ```
 sudo service syncthing start
 ```
 
-Abrimos el navegador y para acceder a la interfaz web escribiremos `192.168.1.103:8384`
+### Abrimos el navegador y para acceder a la interfaz web escribiremos `192.168.1.103:8384`
 
 
-Fuente:
+_Fuente:_
 
 [https://ugeek.github.io/049.-Instalando-Syncthing-en-ubuntu-antergos-y-rapsberry/](https://ugeek.github.io/049.-Instalando-Syncthing-en-ubuntu-antergos-y-rapsberry/)
 
 ## Montar disco duro externo
 
-Fuente:
+### Actualizar sistema con 
+
+```
+sudo apt-get update" y "sudo apt-get upgrade
+```
+
+### Actualizar el firmware de la Raspberry Pi
+
+```
+sudo rpi-update
+```
+
+### Configurar la Raspberry Pi para que lea sistemas de archivos NTFS
+
+```
+sudo apt-get install ntfs-3g
+```
+
+###  Conocer el UUID y tipo de la unidad que vamos a monta
+
+```
+sudo blkid
+```
+
+### Montar disco duro externo en Raspberry pi de forma permanente
+
+```
+sudo mkdir /media/hdd
+```
+Copiar y guardar el UUID
+
+### Editar el fstab
+
+```
+sudo nano /etc/fstab
+```
+
+#### y añadiremos una línea con nuestro disco duro, en este caso la que empieza por UUID:
+
+```
+UUID=14386F3F7CFE3E9D   /media/hdd      ntfs    defaults          0       0
+```
+
+### Para compartir la carpeta _jgurillo_ en Samba, añadir esto a la configuración de Samba
+
+```
+[jgurillo]
+   comment = jgurillo Directory
+   path = /media/hdd/jgurillo
+   browseable = Yes
+   writeable = Yes
+   only guest = no
+   create mask = 0775
+   directory mask = 0775
+   public = no
+```
+
+### Reiniciar la raspberry
+
+_Fuentes:_
+
+[http://tutoraspberrypi.blogspot.com.es/p/m.html](http://tutoraspberrypi.blogspot.com.es/p/m.html)
 
 [http://www.mclarenx.com/2015/02/10/raspberry-pi-paso-4-montar-disco-duro-usb/](http://www.mclarenx.com/2015/02/10/raspberry-pi-paso-4-montar-disco-duro-usb/)
 
 
 ## Instalar SAMBA y compartir carpetas
 
+### Instalar el servidor samba
+
+```
+sudo apt install samba samba-common-bin
+```
+### Configurar el servidor
+
+```
+sudo nano /etc/samba/smb.conf
+```
+#### Modificar el nombre del grupo de trabajo e indicar si tendrá soporte para windows. Esta parte se encuentra en la parte superior del archivo de configuración, en la sección **Global Settings**. En mi caso esta parte queda como sigue,
+
+```
+[global]
+
+## Browsing/Identification ###
+
+# Change this to the workgroup/NT-domain name your Samba server will part of
+   workgroup = WORKGROUP
+
+# Windows Internet Name Serving Support Section:
+# WINS Support - Tells the NMBD component of Samba to enable its WINS Server
+   wins support = yes
+```
+
+### Definir qué y cómo compartir en la sección **Share Definitions**. Valga como ejemplo mi carperacompartida _share_.
+
+```
+[share]
+   comment = Share Directory
+   path = /home/pi/share
+   browseable = Yes
+   writeable = Yes
+   only guest = no
+   create mask = 0775
+   directory mask = 0775
+   public = no
+```
+
+### Actualizar la configuración reiniciando samba.
+
+```
+sudo systemctl restart smbd
+```
+### Es necesario asignar a cada usuario su propia contraseña.
+
+```
+sudo smbpasswd -a pi
+```
+
+### Si estás usando Manjaro necesitarás instalar manjaro-settings-samba
+
+```
+sudo pacman -S manjaro-settings-samba
+```
+
+[https://www.atareao.es/tutorial/raspberry-pi-primeros-pasos/compartir-archivos-en-red-con-samba/](https://www.atareao.es/tutorial/raspberry-pi-primeros-pasos/compartir-archivos-en-red-con-samba/)
+
 [https://www.redeszone.net/raspberry-pi/como-instalar-un-servidor-samba-en-raspberry-pi-para-compartir-carpetas-en-red/](https://www.redeszone.net/raspberry-pi/como-instalar-un-servidor-samba-en-raspberry-pi-para-compartir-carpetas-en-red/)
 
+
+## Instalar Plex Media Server en Raspbian 9 stretch
+
+### Añadir el repositorio dev2day
+
+```
+wget -O - https://dev2day.de/pms/dev2day-pms.gpg.key | sudo apt-key add -
+```
+
+### Añadir el source.list
+
+```
+echo "deb https://dev2day.de/pms/ stretch main" | sudo tee /etc/apt/sources.list.d/pms.list
+```
+
+### Actualizar
+
+```
+sudo apt-get update
+```
+
+### Descargar Plex
+
+```
+sudo apt-get install -t stretch plexmediaserver-installer
+```
+
+### Establecer los permisos (yo este paso no lo he hecho)
+
+```
+sudo nano /etc/default/plexmediaserver.prev
+```
+Después buscar la línea
+
+```
+PLEX_MEDIA_SERVER_USER=plex
+```
+Borrar "plex" y cambiar por "pi". Entoces quedarias así:
+
+```
+PLEX_MEDIA_SERVER_USER=pi
+```
+
+### Reniciar el servicio.
+
+```
+sudo service plexmediaserver restart
+```
+
+### Acceder al servidor Plex de la Raspberry desde otro equipo.
+
+En el navegador, escribir (poner la IP de la raspberry) 
+
+```
+192.168.1.103:32400/web/index.html
+```
+
+_Fuente_ 
+[https://thepi.io/how-to-set-up-a-raspberry-pi-plex-server/](https://thepi.io/how-to-set-up-a-raspberry-pi-plex-server/)
+[https://www.raspberrypi.org/
 
 
 
