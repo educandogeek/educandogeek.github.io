@@ -11,7 +11,7 @@ comment: true
 
 En esta entrada os voy a dejar un tutorial elaborado a partir de diverso material recopilado en internet para:
 
-# Compartir una impresora convencional en internet usando Google Cloud Print
+# Tutorial: Compartir una impresora convencional en internet usando Google Cloud Print
 
 Google Cloud Print es un servicio que permite imprimir desde cualquier dispositivo hacia cualquier impresora sin que estén en el mismo lugar. En este tutorial vamos a ver como usarlo desde la opción de imprimir de cualquier programa sin necesidad de pasar por el navegador.
 
