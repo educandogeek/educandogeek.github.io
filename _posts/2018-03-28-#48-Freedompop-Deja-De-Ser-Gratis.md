@@ -30,7 +30,7 @@ comment: true
 
 En el capítulo de hoy:
 
-Hará un par de días, saltó la notícia de que FreedomPop iba a dejar de ser *Free*. Según las notícias, la OMV que ofrece datos y minutos de voz a coste cero, va a hacer pasar por caja a sus clientes. El motivo según la compañia es el abuso y fraude que está haciendo con sus tarjetas SIM. 
+Hará un par de días, saltó la notícia de que FreedomPop iba a dejar de ser *Free*. Según las notícias, la OMV que ofrece datos y minutos de voz a coste cero, va a hacer pasar por caja a sus clientes. El motivo según la compañia es el abuso y fraude que se está haciendo con sus tarjetas SIM. 
 
 
 ![img](https://i.imgur.com/pFXINvh.jpg)
