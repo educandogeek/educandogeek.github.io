@@ -35,7 +35,7 @@ Hará un par de días, saltó la notícia de que FreedomPop iba a dejar de ser *
 
 ![img](https://i.imgur.com/pFXINvh.jpg)
 
-Soy usuario de 2 tarjetas SIM com FreedomPop y me estoy planteando si quedarme o buscar alternativas.
+Soy usuario de 2 tarjetas SIM con FreedomPop y me estoy planteando si quedarme o buscar alternativas.
 
 En este audio te cuento lo que he leído al respecto de esta noticia y qué alternativas veo como más viables.
 
