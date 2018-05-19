@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#51 Voz Digital de Tuenty y Internet en casa con la SIM infinita de Yoigo"
+title: "#51 Voz Digital de Tuenti y Internet en casa con la SIM infinita de Yoigo"
 date: 2018-05-19
 categories: podcast
 tags: [Podcast, Yoigo, Tuenti]
