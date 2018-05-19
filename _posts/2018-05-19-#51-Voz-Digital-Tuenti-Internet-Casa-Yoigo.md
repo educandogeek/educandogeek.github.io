@@ -30,7 +30,7 @@ comment: true
 
 En el capítulo de hoy:
 
-- Os relato como está siendo mi experiencia de uso de la operadora Tuenti en mi línea principal. La tarifa elegida incluye 8GB de datos, llamadas de voz digital ilimitadas desde la App de Tuenti y 200 SMS gratuitos también desde la App de Tuenti por 10€ mensuales.
+- Os relato como está siendo mi experiencia de uso con la operadora Tuenti en mi línea principal. La tarifa elegida incluye 8GB de datos, llamadas de voz digital ilimitadas desde la App de Tuenti y 200 SMS gratuitos también desde la App de Tuenti por 10€ mensuales.
 
 - Estoy intentando usar una SIM con datos infinitos de Yoigo para abastecer de Internet a todos los dispositivos de mi casa. Quitar la línea fija, quitar els ADSL y compartir el Internet de la SIM mediante un módem 4G USB de Huawei y un Router 4G de TP-LINK. De momento sigo con pruebas, pero uede funcionar.
 
