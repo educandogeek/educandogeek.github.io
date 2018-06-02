@@ -30,7 +30,8 @@ comment: true
 
 En el capítulo de hoy:
 
-- Os relato cómo he montado el Internet de mi hogar para que llegue a todos los equipos que tengo conectados por WiFi o por cable ethernet. Todo está hecho sin usar para nada una conexión Adsl, de fibra o satélite. Para conseguirlo he usado un módem 4G usb de Huawei con una tarjeta SIM y un router de viaje TP-Link que puede funcionar con una batería externa. El valor del equipamiento necesario en Amazon reacondicionados es de unos 50€ en total.
+- Os relato cómo he montado el Internet de mi hogar para que llegue a todos los equipos que tengo conectados por WiFi o por cable ethernet. Todo está hecho sin usar para nada una conexión Adsl, de fibra o satélite. 
+Para conseguirlo he usado un módem 4G usb de Huawei con una tarjeta SIM y un router de viaje TP-Link que puede funcionar con una batería externa. El valor del equipamiento necesario en Amazon reacondicionados es de unos 50€ en total.
 
 
 
