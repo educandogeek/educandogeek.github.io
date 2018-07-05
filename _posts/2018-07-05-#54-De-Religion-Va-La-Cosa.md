@@ -12,6 +12,8 @@ comment: true
 
 #### Publicado por Juanjo
 
+[https://educandogeek.github.io](https://educandogeek.github.io)
+
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
 </audio>
@@ -37,7 +39,6 @@ ENLACES:
 - [http://eldiariodelaeducacion.com/blog/2017/09/29/religion-fuera-de-la-escuela/](http://eldiariodelaeducacion.com/blog/2017/09/29/religion-fuera-de-la-escuela/)
 
 
-[https://educandogeek.github.io](https://educandogeek.github.io)
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
 
