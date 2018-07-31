@@ -26,7 +26,7 @@ En el capítulo de hoy:
 
 ¿Es realmente Kodi un rival a Netflix? Para mi, desde luego que lo es.
 
-Descubre cuales son mis razones y cómo tengo configurado Kodi. Además, de regalo, os comparto mi backup de Kodi para que os sea muy, muy fácil tenerlo funcionando encuestión de un par de minutos ;-)
+Descubre cuales son mis razones y cómo tengo configurado Kodi. Además, de regalo, os comparto mi backup de Kodi para que os sea muy, muy fácil tenerlo funcionando en cuestión de un par de minutos ;-)
 
 Enlace para descargar mi copia de addons y userdata:
 
