@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "#54 De religión va la cosa"
+title: "#59 De religión va la cosa"
 date: 2018-07-05
 categories: podcast
 tags: [Podcast, jgurillo, religion, cristiana, evangelica, musulmana, escuela, publica, españa]
-permalink: /54/
+permalink: /559/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/54DeReligionVaLaCosa/54%20De%20Religion%20Va%20La%20Cosa.mp3
 comment: true
@@ -20,7 +20,7 @@ comment: true
 
 [Descarga][Mp3]
 
-[Deja aquí tu comentario](https://educandogeek.github.io/54/)
+[Deja aquí tu comentario](https://educandogeek.github.io/59/)
 
 En el capítulo de hoy:
 
