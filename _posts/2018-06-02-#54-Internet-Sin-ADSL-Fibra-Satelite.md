@@ -9,9 +9,13 @@ image: images/caratula.jpg
 podcast_link: https://archive.org/download/52InternetSINAdslFibraSateliteSIMInfinitaYoiogo/52%20Internet%20SIN%20Adsl%20Fibra%20Satelite%20SIM%20Infinita%20Yoiogo.mp3
 comment: true
 ---
+
  #### Publicado por Juanjo
+ 
  [https://educandogeek.github.io](https://educandogeek.github.io)
+ 
  · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1289274_1.html)
+ 
  · Suscríbete al Blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
  [Deja aquí tu comentario](https://educandogeek.github.io/54/)
  <audio controls>
