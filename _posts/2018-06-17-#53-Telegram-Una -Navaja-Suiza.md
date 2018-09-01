@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "#53 Telegram Una Navaja Suiza"
+title: "#57 Telegram Una Navaja Suiza"
 date: 2018-06-17
 categories: podcast
 tags: [Podcast, Telegram, Navaja, Suiza, Reflexiones, jgurillo, educandogeek]
-permalink: /53/
+permalink: /57/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/53TelegramUnaNavajaSuiza/53%20Telegram%20Una%20Navaja%20Suiza.mp3
 comment: true
@@ -18,7 +18,7 @@ comment: true
 
 · Suscríbete al Blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
 
-[Deja aquí tu comentario](https://educandogeek.github.io/53/)
+[Deja aquí tu comentario](https://educandogeek.github.io/57/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
