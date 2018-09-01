@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "#52 Tener Internet en casa SIN Adsl, Fibra o Satélite"
+title: "#54 Tener Internet en casa SIN Adsl, Fibra o Satélite"
 date: 2018-06-02
 categories: podcast
 tags: [Podcast, Yoigo, Internet, Adsl, Fibra, Satelite, Modem, Router, Sin, jgurillo, educandogeek]
-permalink: /52/
+permalink: /54/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/52InternetSINAdslFibraSateliteSIMInfinitaYoiogo/52%20Internet%20SIN%20Adsl%20Fibra%20Satelite%20SIM%20Infinita%20Yoiogo.mp3
 comment: true
@@ -18,7 +18,7 @@ comment: true
 
 · Suscríbete al Blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
 
-[Deja aquí tu comentario](https://educandogeek.github.io/52/)
+[Deja aquí tu comentario](https://educandogeek.github.io/54/)
 
 <audio controls>
   <source src="{{ page.podcast_link }}" type="audio/mp3">
