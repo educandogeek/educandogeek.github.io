@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "#55 Kodi Vs Netflix"
+title: "#64 Kodi Vs Netflix"
 date: 2018-07-31
 categories: podcast
 tags: [Podcast, jgurillo, kodi, netflix, palantir, tvchopo]
-permalink: /55/
+permalink: /64/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/55KodiVsNetflix/55%20Kodi%20Vs%20Netflix.mp3
 comment: true
@@ -20,7 +20,7 @@ comment: true
 
 [Descarga][Mp3]
 
-[Deja aquí tu comentario](https://educandogeek.github.io/55/)
+[Deja aquí tu comentario](https://educandogeek.github.io/64/)
 
 En el capítulo de hoy:
 
