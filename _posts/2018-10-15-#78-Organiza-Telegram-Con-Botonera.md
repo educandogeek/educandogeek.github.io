@@ -32,7 +32,7 @@ comment: true
 
 Que Telegram nos ofrece una variedad inmensa de usos es algo innegable. La imaginación incrementa el abanico de posibilidades y al igual que yo, estoy seguro que muchos de vosotros y vosotras usáis Telegram como una nube de almacenamiento creando canales específicos para almacenar todo tipo de archivos. El problema viene cuando quieres encontrar uno de esos canales dentro de la marabunta de conversaciones, bots, grupos, canales, etc.
 
-Por todo ello, me he dispuesto a aplicar una gran idea que ha tenido mi amigo Ivan. Se trata de crear una botonera que organice y facilite el acceso a todas esas nubes privadas que tenemos en forma de canales. Pero no solo eso. Tambien podemos organizar por categorías todo lo que queramos: canales temáticos, grupos, servicios online, etc. Cualquier cosa que se pueda enlazar dentro de Telegram e incluso fuera, se puede poner en forma de botón.
+Por todo ello, me he dispuesto a aplicar una gran idea que ha tenido mi amigo Ivan. Se trata de crear una botonera que organice y facilite el acceso a todas esas nubes privadas que tenemos en forma de canales. Pero no solo eso. También podemos organizar por categorías todo lo que queramos: canales temáticos, grupos, servicios online, etc. Cualquier cosa que se pueda enlazar dentro de Telegram e incluso fuera, se puede poner en forma de botón.
 
 Aquí puedes ver como ha quedado mi botonera.
 
@@ -54,13 +54,13 @@ Lo primero que tienes que hacer es crearte un canal privado para mandarte ahí l
 
 La botonera se hace con este bot @Moderadores_Bot
 
-Te paso la plantilla mía vacia para que puedas adaptarla a tus necesidades. Añade y/o quita lo que necesites.
+Te paso la plantilla mía vacía para que puedas adaptarla a tus necesidades. Añade y/o quita lo que necesites.
 
 Sólo debes tener en cuenta que el enlace de los botones los tienes que escribir entre comillas, y el título de los botones también entre comillas.
 
-Para que los botones aparezcan en la misma linea, tienes que hacer una línea por cada botón sin comas ni puntos al final.
+Para que los botones aparezcan en la misma línea, tienes que hacer una línea por cada botón sin comas ni puntos al final.
 
-Para que los botones aparezcan en lineas separadas, tienes que hacer una línea por cada botón con una coma al final.
+Para que los botones aparezcan en líneas separadas, tienes que hacer una línea por cada botón con una coma al final.
 
 Puedes dejar las líneas vacias que quieras para así separar visualmente la estructura de la botonera.
 
@@ -162,6 +162,8 @@ Para terminar le das a compartir al canal que tu quieras. Yo he anclado ese cana
 - Enlace al tutorial - [https://educandogeek.github.io/78/](https://educandogeek.github.io/78/)
 
 - Enlace al videotutorial de cómo hacer la botonera - [https://youtu.be/xG_BKnLRT1s](https://youtu.be/xG_BKnLRT1s)
+
+- Completa información sobre los bots de Telegram escuchando este podcast de @chinom llamado *Ahora que tengo un rato* - [https://pca.st/82LJ](https://pca.st/82LJ)
 
 _______________
 
