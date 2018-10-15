@@ -14,7 +14,7 @@ comment: true
 
 [https://educandogeek.github.io](https://educandogeek.github.io)
 
-· Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/s_p2_580544_1.html)
+· Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://itunes.apple.com/es/podcast/educando-geek/id1110060146?mt=2), [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1580544_1.html)
 
 · Suscríbete al Blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
 
