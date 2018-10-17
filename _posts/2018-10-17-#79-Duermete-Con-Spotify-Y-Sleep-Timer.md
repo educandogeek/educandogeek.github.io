@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "#79 Duérmete con Spotify y Sleep Timer"
+title: "#79 Duérmete con Spotify y Sleep Timer (Android)"
 date: 2018-10-17
 categories: podcast
-tags: [spotify, dormir, temporizador, sleep, timer, podcast, educandogeek]
+tags: [spotify, dormir, temporizador, sleep, timer, podcast, android, educandogeek]
 permalink: /79/
 image: images/caratula.jpg
 podcast_link: https://archive.org/download/79DuermeteConSpotifyYSleepTimer/79%20Duermete%20Con%20Spotify%20Y%20Sleep%20Timer.mp3
