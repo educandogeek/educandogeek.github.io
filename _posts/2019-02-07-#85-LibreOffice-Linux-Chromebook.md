@@ -67,7 +67,7 @@ sudo apt-get install libreoffice
 4.- Instalamos el paquete de idioma español pàra LibreOffice:
 
 ```
-sudo apt-get install libreoffice
+sudo apt-get install libreoffice-l10n-es
 ```
 
 5.- Ejecutamos LibreOffice:
