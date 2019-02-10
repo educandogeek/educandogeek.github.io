@@ -55,19 +55,20 @@ Es por esto, que en cuanto vi que mi equipo era capaz de virtualizar esa máquin
 2.- Una vez se han descargado los paquetes y nos aparece la terminal en pantalla, procedemos a actualizar el sistema:
 
 ```
-sudo apt-get update
+sudo apt upgrade
+sudo apt update
 ```
 
 3.- Instalamos LibreOffice con:
 
 ```
-sudo apt-get install libreoffice
+sudo apt install libreoffice
 ```
 
-4.- Instalamos el paquete de idioma español pàra LibreOffice:
+4.- Instalamos el paquete de idioma español para LibreOffice:
 
 ```
-sudo apt-get install libreoffice-l10n-es
+sudo apt install libreoffice-l10n-es
 ```
 
 5.- Ejecutamos LibreOffice:
