@@ -124,7 +124,7 @@ Y hasta aquí este tutorial. ¡Espero que os sirva tanto como a mi!
 
 ## Fuentes consultadas:
 
-- Niftiest Software *Instalación CUPS Cloud Print en GNU Linux* - [https://www.niftiestsoftware.com/cups-cloud-print/](https://www.niftiestsoftware.com/cups-cloud-print/)
+- Niftiest Software *Instalación de CUPS Cloud Print* en diferentes distribuciones GNU Linux - [https://www.niftiestsoftware.com/cups-cloud-print/](https://www.niftiestsoftware.com/cups-cloud-print/)
 
 - Post *Google Cloud Print dispone de driver nativo para Windows* de SoftZone - [https://www.softzone.es/2013/07/23/google-cloud-print-dispone-de-driver-nativo-para-windows/](https://www.softzone.es/2013/07/23/google-cloud-print-dispone-de-driver-nativo-para-windows/)
 
