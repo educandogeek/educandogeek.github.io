@@ -63,11 +63,15 @@ El proceso que describo a continuación está probado en Lliurex Linux. Una dist
 Abrimos la terminal y escribimos:
 
 ```
-sudo apt-add-repository ppa:simon-cadman/cups-cloud-print
+sudo add-apt-repository ppa:simon-cadman/niftyrepo
 ```
 
 ```
 sudo apt-get update
+```
+
+```
+sudo apt-get install cupscloudprint
 ```
 
 *Si aparece algún mensaje de error, lo ignoramos y seguimos escribiendo:*
@@ -101,6 +105,12 @@ Tan sólo tenéis que instalar la aplicación oficial de Google Cloud Print desd
 
 ### Instalación en iOS
 
+#### Opción gratuita con Quick Print Cloud Lite
+
+Instalar la App Quick Print Cloud Lite desde la App Store, disponible en el siguiente enlace - [https://itunes.apple.com/es/app/quick-print-cloud-lite/id887303743#?platform=ipad](https://itunes.apple.com/es/app/quick-print-cloud-lite/id887303743#?platform=ipad)
+
+#### Opción de pago con App PrintCentral Pro
+
 Instalar la App PrintCentral Pro desde la App Store, disponible en el siguiente enlace - [https://itunes.apple.com/es/app/printcentral-pro/id426362921?mt=8](https://itunes.apple.com/es/app/printcentral-pro/id426362921?mt=8)
 
 Tiene un coste de 8,99€ a fecha de hoy. 
@@ -114,9 +124,7 @@ Y hasta aquí este tutorial. ¡Espero que os sirva tanto como a mi!
 
 ## Fuentes consultadas:
 
-- Post *Imprimir en forma remota desde Ubuntu usando Google Cloud Print* de Planeta Diego - [https://planetadiego.com/2015/08/03/imprimir-en-forma-remota-desde-ubuntu-usando-google-cloud-print/](https://planetadiego.com/2015/08/03/imprimir-en-forma-remota-desde-ubuntu-usando-google-cloud-print/)
-
-- Post *Usar las impresoras de Google Cloud Print como locales* de DesdeLinux - [https://blog.desdelinux.net/usar-impresoras-google-cloud-print/](https://blog.desdelinux.net/usar-impresoras-google-cloud-print/)
+- Niftiest Software *Instalación CUPS Cloud Print en GNU Linux* - [https://www.niftiestsoftware.com/cups-cloud-print/](https://www.niftiestsoftware.com/cups-cloud-print/)
 
 - Post *Google Cloud Print dispone de driver nativo para Windows* de SoftZone - [https://www.softzone.es/2013/07/23/google-cloud-print-dispone-de-driver-nativo-para-windows/](https://www.softzone.es/2013/07/23/google-cloud-print-dispone-de-driver-nativo-para-windows/)
 
@@ -124,3 +132,7 @@ Y hasta aquí este tutorial. ¡Espero que os sirva tanto como a mi!
   [https://tools.google.com/dlpage/cloudprintdriver](https://tools.google.com/dlpage/cloudprintdriver)
 
 - Aplicaciones compatibles con Google Clod Print -  [https://www.google.com/cloudprint/learn/apps/](https://www.google.com/cloudprint/learn/apps/)
+
+Desactuaizado - Post *Imprimir en forma remota desde Ubuntu usando Google Cloud Print* de Planeta Diego - [https://planetadiego.com/2015/08/03/imprimir-en-forma-remota-desde-ubuntu-usando-google-cloud-print/](https://planetadiego.com/2015/08/03/imprimir-en-forma-remota-desde-ubuntu-usando-google-cloud-print/)
+
+Desactualizado - Post *Usar las impresoras de Google Cloud Print como locales* de DesdeLinux - [https://blog.desdelinux.net/usar-impresoras-google-cloud-print/](https://blog.desdelinux.net/usar-impresoras-google-cloud-print/)
