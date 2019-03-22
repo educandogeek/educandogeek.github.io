@@ -133,6 +133,6 @@ Y hasta aquí este tutorial. ¡Espero que os sirva tanto como a mi!
 
 - Aplicaciones compatibles con Google Clod Print -  [https://www.google.com/cloudprint/learn/apps/](https://www.google.com/cloudprint/learn/apps/)
 
-Desactuaizado - Post *Imprimir en forma remota desde Ubuntu usando Google Cloud Print* de Planeta Diego - [https://planetadiego.com/2015/08/03/imprimir-en-forma-remota-desde-ubuntu-usando-google-cloud-print/](https://planetadiego.com/2015/08/03/imprimir-en-forma-remota-desde-ubuntu-usando-google-cloud-print/)
+- Desactuaizado - Post *Imprimir en forma remota desde Ubuntu usando Google Cloud Print* de Planeta Diego - [https://planetadiego.com/2015/08/03/imprimir-en-forma-remota-desde-ubuntu-usando-google-cloud-print/](https://planetadiego.com/2015/08/03/imprimir-en-forma-remota-desde-ubuntu-usando-google-cloud-print/)
 
-Desactualizado - Post *Usar las impresoras de Google Cloud Print como locales* de DesdeLinux - [https://blog.desdelinux.net/usar-impresoras-google-cloud-print/](https://blog.desdelinux.net/usar-impresoras-google-cloud-print/)
+- Desactualizado - Post *Usar las impresoras de Google Cloud Print como locales* de DesdeLinux - [https://blog.desdelinux.net/usar-impresoras-google-cloud-print/](https://blog.desdelinux.net/usar-impresoras-google-cloud-print/)
