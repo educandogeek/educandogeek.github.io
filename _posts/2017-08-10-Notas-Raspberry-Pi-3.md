@@ -130,12 +130,14 @@ guardamos, reiniciamos y ya funcionarán.
 ### Resumen de los alias (los pongo todos agrupados)
 
 ```
+#Alias personales
 alias temp='cat /sys/class/thermal/thermal_zone0/temp && vcgencmd measure_temp&& echo "Lectura de temperatura finalzada. 1ª=procesador 2ª=gráfica"'
 alias apagar='sudo poweroff && echo "Apagando"'
 alias reiniciar='sudo reboot && echo "Reiniciando"'
 alias actualizar='sudo apt update && sudo apt upgrade && clear && echo "Sistema Operativo Actualizado"'
 alias firmware='sudo rpi-update && clear && echo "Firmware de Raspberry Pi Actualizado"'
 alias memoria='free -m -h && df -h && echo "Uso de memoria RAM, Memoria SWAP y Memoria del sistema"'
+alias limpiar='sudo apt autoclean && sudo apt-get clean && sudo apt autoremove && echo "LIMPIEZA TERMINADA"'
 ```
 
 
