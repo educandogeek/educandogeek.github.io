@@ -31,7 +31,7 @@ Si acabas de comprar tu Raspberry Pi 3b te recomiendo que [leas primero este otr
 *Sobra decir que si la cuenta de Google Drive que vamos a usar es ilimitada pues mejor que mejor.*
 
 
-![img](https://imgur.com/sQvjRrU)
+![img](https://i.imgur.com/sQvjRrU.jpg)
 
 
 **·Instalar RClone:**
@@ -177,7 +177,7 @@ Introducimos **usuario** y **contraseña** de la cuenta de Google Drive.
 
 Le damos a **conceder permisos de acceso** a Rclone a nuestro Drive y nos saldrá lo siguiente:
 
-![img](https://imgur.com/cIS4kvG) *Imagen de [Mosquetero Web](https://diario.mosqueteroweb.eu/2019/06/como-usar-la-nube-en-local.html)*
+![img](https://i.imgur.com/cIS4kvG.png) *Imagen de [Mosquetero Web](https://diario.mosqueteroweb.eu/2019/06/como-usar-la-nube-en-local.html)*
 
 Copiamos el token que nos proporciona Google y volvemos a la termial donde lo copiaremos mediante la combinación de teclas `Ctrl + Mayús + V`
 
@@ -187,7 +187,7 @@ En Configure this as a team drive? , escribimos *n*
 
 Y nos saldrá nuestra unidad configurada y sus parámetros:
 
-![img](https://imgur.com/Td8A25Y)
+![img](https://i.imgur.com/Td8A25Y.png)
 
 Confirmamos escribiendo **y**
 
@@ -201,7 +201,7 @@ y/n>
 ```
 Respondemos **n** y nos mostrará la unidad que hemos creado:
 
-![img](https://imgur.com/Y3KDO25)
+![img](https://i.imgur.com/Y3KDO25.png)
 
 Salimos escribiendo **q**
 
@@ -214,7 +214,7 @@ _______________
 ### Ahora vamos a montar la nube de Google Drive
 
 
-![img](https://imgur.com/oE32WcM)
+![img](https://i.imgur.com/oE32WcM.jpg)
 
 
 #### Vamos a montar la nube pública en nuestro servidor, como si fuera una unidad de disco duro. Para ello, necesitamos instalar Fuse si no lo tenemos instalado.
@@ -285,7 +285,7 @@ _______________
 ### Por último, vamos a Instalar Plex en la Raspberry Pi 3b
 
 
-![img](https://imgur.com/vgFEdoB)
+![img](https://i.imgur.com/vgFEdoB.jpg)
 
 
 
