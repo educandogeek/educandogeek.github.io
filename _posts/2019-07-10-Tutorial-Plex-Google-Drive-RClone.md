@@ -312,7 +312,7 @@ Como ya no necesitamos más ese archivo lo podemos borrar con:
 rm plexmediaserver*.deb
 ```
 
-**·Establecer los permisos**
+**·Establecer los permisos:**
 
 ```
 sudo nano /etc/default/plexmediaserver.prev
