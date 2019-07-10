@@ -300,7 +300,7 @@ Como no recibiremos actualizaciones automáticas, en caso de querer actualizar P
 
 **· Instalación:**
 
-Cuando hayamos vuelto a arrancar la Raspberry realizamos la instalación con:
+Realizamos la instalación con:
 
 ```
 sudo dpkg -i plexmediaserver*.deb
@@ -330,6 +330,21 @@ Borrar “plex” y cambiar por “pi”. Entoces quedaría así:
 PLEX_MEDIA_SERVER_USER=pi
 ```
 
+**· Hacer eque el servicio inicie con el sistema:**
+
+```
+systemctl enable plexmediaserver.service
+```
+
+OTRAS ÓRDENES DE INTERÉS PARA EL SERVICIO DE PLEX:
+
+
+**· Consultar el estado del servicio:**
+
+```
+systemctl status plexmediaserver.service
+```
+
 **· Iniciar servicio:**
 
 ```
@@ -340,18 +355,6 @@ systemctl start plexmediaserver.service
 
 ```
 systemctl stop plexmediaserver.service
-```
-
-**· Consultar el estado del servicio:**
-
-```
-systemctl status plexmediaserver.service
-```
-
-**· Hacer eque el servicio inicie con el sistema:**
-
-```
-systemctl enable plexmediaserver.service
 ```
 
 **· Desactivar que el servicio arranque con el sistema:**
