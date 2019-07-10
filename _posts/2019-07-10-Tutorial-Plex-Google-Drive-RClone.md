@@ -21,7 +21,7 @@ Si acabas de comprar tu Raspberry Pi 3b te recomiendo que [leas primero este otr
 ![img](https://imgur.com/MK4NxeP)
 
 
-####Te invito a que escuches el podcast que acompaña este tutorial y que tienes disponible en:
+#### Te invito a que escuches el podcast que acompaña este tutorial y que tienes disponible en:
 
 
 
