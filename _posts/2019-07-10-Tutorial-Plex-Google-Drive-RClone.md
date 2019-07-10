@@ -183,7 +183,7 @@ Copiamos el token que nos proporciona Google y volvemos a la termial donde lo co
 
 Ahora de nuevo en la Terminal dónde sigue el rclone config
 
-En Configure this as a team drive? , escribimos *n*
+En `Configure this as a team drive?` , escribimos **n**
 
 Y nos saldrá nuestra unidad configurada y sus parámetros:
 
