@@ -18,7 +18,7 @@ El contenido de este tutorial si bien lo he escrito de la manera más detallada 
 
 Si acabas de comprar tu Raspberry Pi 3b te recomiendo que [leas primero este otro tutorial](https://educandogeek.github.io/Notas-Raspberry-Pi-3/) donde indico cómo realizar su puesta en marcha. Tal vez sea un tutorial algo obsoleto por la versión de Raspian o el modelo de Raspberry pero te servirá de orientación.
 
-[img](https://imgur.com/MK4NxeP)
+[Imgur](https://i.imgur.com/MK4NxeP.jpg)
 
 
 #### Te invito a que escuches el podcast que acompaña este tutorial y que tienes disponible en:
