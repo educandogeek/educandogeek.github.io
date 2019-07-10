@@ -159,9 +159,9 @@ Después pide el tipo de acceso: `scope>` , le doy acceso completo con el númer
 
 A los siguientes: root_folder_id>  y  service_account_file> las dejamos por defecto en blanco pulsando Intro
 
-En Edit advanced config? (y/n), escribimos **n**
+En `Edit advanced config? (y/n)`, escribimos **n**
 
-En Edit advanced config? (y/n), escribimos **n**
+En `Use auto config? (y/n)`, escribimos **n**
 
 Ahora nos saltará el navegador web para que demos nuestras credenciales de acceso a la nube mediante un token que copiaremos y pegaremos en la terminal. 
 
