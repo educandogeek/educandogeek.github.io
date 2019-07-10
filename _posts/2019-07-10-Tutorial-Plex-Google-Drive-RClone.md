@@ -312,6 +312,23 @@ Como ya no necesitamos más ese archivo lo podemos borrar con:
 rm plexmediaserver*.deb
 ```
 
+**·Establecer los permisos**
+
+```
+sudo nano /etc/default/plexmediaserver.prev
+```
+
+Después buscar la línea
+
+```
+PLEX_MEDIA_SERVER_USER=plex
+```
+
+Borrar “plex” y cambiar por “pi”. Entoces quedaría así:
+
+```
+PLEX_MEDIA_SERVER_USER=pi
+```
 
 **· Iniciar servicio:**
 
