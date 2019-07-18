@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Tutorial para montar Plex + Google Drive ilimitado + Reclone en una Raspberry Pi 3b"
+title: "Tutorial para montar Plex + Google Drive ilimitado + RClone en una Raspberry Pi 3b"
 date: 2019-07-10
 tags: [Blog, Plex, Google Drive, RClone, Raspberry Pi 3b, jgurillo, eDucando Geek]
 author: Juanjo
