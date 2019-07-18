@@ -291,10 +291,17 @@ _______________
 
 #### A fecha de hoy no se encuentra disponible el paquete de plex-media-server en los repositorios oficiales de Raspbian, así que tendremos que descargarlo desde la web oficial.
 
-Vamos a descargar a nuestro `/home` la versión para nuestra Raspberry Pi 3b con ARM-V7 desde [https://www.plex.tv/media-server-downloads/](https://www.plex.tv/media-server-downloads/)
+Vamos a descargar a nuestro `/home/pi` la versión para nuestra Raspberry Pi 3b con ARM-V7 desde [https://www.plex.tv/media-server-downloads/](https://www.plex.tv/media-server-downloads/)
 
-Yo para no complicarme con la terminal (Raspbian Lite no tiene escritorio gráfico) lo que hago es meter el USB con Raspbian en mi PC de escritorio y descargar el `archivo de instalación.deb` en el `/home` de mi Raspberry.
+Una vez en la web de descargar copiamos el enlace de descarga para nuestra distribución ARMv7 como muestra la siguiente captura:
 
+![img](https://i.imgur.com/iwleuWY.png)
+
+Seguidamente realizamos la descarga desde la terminal con:
+
+```
+wget aquí_pegamos_la_dirección_del_enlace_anterior_con_Ctrl+Mayús+V
+```
 Como no recibiremos actualizaciones automáticas, en caso de querer actualizar Plex cuando aparezca una nueva versión tendremos que repetir este proceso.
 
 
