@@ -25,6 +25,10 @@ Si acabas de comprar tu Raspberry Pi 3b te recomiendo que [leas primero este otr
 [https://anchor.fm/educandogeekanchor/episodes/104-Tutorial-Plex--Google-Drive--RClone--Raspberry-Pi-e4j547](https://anchor.fm/educandogeekanchor/episodes/104-Tutorial-Plex--Google-Drive--RClone--Raspberry-Pi-e4j547)
 
 
+#### Descarga el tutorial en formato PDF en:
+[http://bit.ly/2O4s088](http://bit.ly/2O4s088)
+
+
 
 ### Instalar RClone y vincularlo a una cuenta de Google Drive
 
