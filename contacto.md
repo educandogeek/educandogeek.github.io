@@ -18,4 +18,6 @@ Podéis encontrarme en:
 
 · Suscríbete al Blog: [RSS](http://feeds.feedburner.com/educandogeekblog)
 
+· También puedes leer mi blog más personal [**Pensamientos Por Escrito**](https://pensamientosporescrito.home.blog) o si lo deseas [suscribirte a su feed](https://pensamientosporescrito.home.blog/feed/)
+
 ![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsxawvdmQeyPfOq42qiJmT6B4W39LKrYOOyFWD6N1e-SjcIJIR)
