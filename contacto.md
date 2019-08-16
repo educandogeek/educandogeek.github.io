@@ -12,7 +12,7 @@ Podéis encontrarme en:
 
 · Twitter: [@jgurillo](https://twitter.com/jgurillo)
 
-· Escucha el Podcast: [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1580544_1.html), [Spotify](https://open.spotify.com/show/6ltKhEuriuMDInIBqsDy1X?si=_K2pljtlS3OejLelRQ9kcQ), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL2VkdWNhbmRvZ2Vlaw), [Apple Podcasts](https://podcasts.apple.com/es/podcast/educando-geek/id1110060146), [Audiobip](https://audiobip.com/podcast/educando-geek/), [Deezer](https://www.deezer.com/show/452492?utm_source=deezer&utm_content=show-452492&utm_term=2527063982_1565954388&utm_medium=web)
+· Escucha el Podcast: [iVoox](https://www.ivoox.com/podcast-educando-geek_sq_f1580544_1.html), [Spotify](https://open.spotify.com/show/6ltKhEuriuMDInIBqsDy1X?si=_K2pljtlS3OejLelRQ9kcQ), [Google Podcasts](https://podcasts.google.com/?feed=aHR0cDovL2ZlZWRwcm94eS5nb29nbGUuY29tL2VkdWNhbmRvZ2Vlaw), [Apple Podcasts](https://podcasts.apple.com/es/podcast/educando-geek/id1110060146), [Audiobip](https://audiobip.com/podcast/educando-geek/), [Deezer](https://www.deezer.com/es/show/452492)
 
 · Suscríbete al Podcast: [RSS](http://feeds.feedburner.com/educandogeek), [Itunes](https://pcr.apple.com/id1110060146), [iVoox](http://feeds.feedburner.com/educandogeek)
 
