@@ -237,7 +237,7 @@ mkdir /home/pi/drive
 
 #### Permitir a usuarios no root, montar unidades y que plex tenga permiso para acceder a la carpeta montada.
 
-Descomentamos la línea **--allow-others** en `/etc/fuse.conf
+Descomentamos la línea **user--allow-others** en `/etc/fuse.conf
 
 Para ello:
 
