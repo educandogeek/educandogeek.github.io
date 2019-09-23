@@ -26,7 +26,7 @@ Si acabas de comprar tu Raspberry Pi 3b te recomiendo que [leas primero este otr
 
 
 #### Descarga el tutorial en formato PDF en:
-[http://bit.ly/2kUHCNJ](http://bit.ly/2kUHCNJ)
+[http://bit.ly/2mvWoKZ](http://bit.ly/2mvWoKZ)
 
 
 
