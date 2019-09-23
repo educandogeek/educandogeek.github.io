@@ -248,7 +248,7 @@ Quitamos **#** y lo dejamos como sigue:
 
 ```
 #Allow non-root users to specify the allow_other or allow_root mount options.
---allow-others
+user--allow-others
 ```
 Guardamos con `Ctrl + O` y salimos con `Ctrl + Q`
 
