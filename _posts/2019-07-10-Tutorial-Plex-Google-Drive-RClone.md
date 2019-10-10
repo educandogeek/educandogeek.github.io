@@ -288,7 +288,7 @@ Ya lo tenemos todo listo.
 Hay usuarios que me han reportado que este sistema para automontar la nube no les ha funcionado y han tenido que recurrir a otras opciones que paso a detallar por si os encontráis con el citado problema.
 
 - Solución 1 (de Inés Guerrero): Crear un script con el mismo comando en `etc/init.d`
-- Solución 2 (de Jorge y Unai Rodri): Cambiar los guiones por guines bajos con lo que nos quedaría lo siguiente.
+- Solución 2 (de Jorge y Unai Rodri): Cambiar los guiones por guiones bajos con lo que nos quedaría lo siguiente.
 ```
 @reboot rclone mount drive: /home/pi/drive __allow_other &
 ```
