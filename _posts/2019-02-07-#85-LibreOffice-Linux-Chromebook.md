@@ -55,8 +55,8 @@ Es por esto, que en cuanto vi que mi equipo era capaz de virtualizar esa máquin
 2.- Una vez se han descargado los paquetes y nos aparece la terminal en pantalla, procedemos a actualizar el sistema:
 
 ```
-sudo apt upgrade
 sudo apt update
+sudo apt upgrade
 ```
 
 3.- Instalamos LibreOffice con:
